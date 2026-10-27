@@ -751,29 +751,6 @@ const DATOS_GLOBALES = {
       "imagen": "print-flores.webp",
       "galeria": [
         {
-          "layout": "auto-gallery",
-          "sectionTitle": "REGISTRO & DATA",
-          "items": [
-            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
-            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
-            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
-            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
-          ]
-          },
-          {
-            "layout": "auto-gallery",
-            "columns": "1/3 1/3 1/3", // O "4 4 4"
-            "items": [
-                { src: "isa.svg", caption: "01 — FASE 1" },
-                { src: "peque.gif", caption: "02 — FASE 2" },
-                { src: "dolemos-siluetas.mp4", caption: "03 — FASE 3" }
-          ]
-        },
-        {
           "layout": "long-scroll",
           "sectionTitle": "MAQUETACIÓN COMPLETA",
           "src": "print-flores.webp",
