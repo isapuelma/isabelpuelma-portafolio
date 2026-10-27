@@ -111,22 +111,19 @@ const DATOS_GLOBALES = {
       "filtro": ["branding", "web"],
       "claseTamano": "item-wide"
     },
-    {
+       {
       "id": "dolemos",
       "titulo": "DOLEMOS",
       "cliente": "Proyecto de Título UC",
       "year": "2025",
       "servicios": ["Investigación-Creación", "Branding", "Diseño Museográfico", "Dirección de Arte"],
-      "herramientas": ["Adobe Suite", "Figma", "Fotografía"],
+      "herramientas": ["Adobe Suite", "Frigma", "Fotografía"],
       "descripcion": "Dolemos: Laboratorio de Diseño Crítico (DSI) enfocado en la visibilización del dolor invisible. Un proyecto de investigación-acción que integró identidad visual, museografía inmersiva y gestión de contenidos interdisciplinarios para generar justicia narrativa.",
-      "desafio": "Cómo abrir un diálogo social sobre condiciones invisibilizadas a través de dispositivos visuales estratégicos.",
-      "solucion": "Desarrollé una metodología de visualización que transforma testimonios en experiencias tangibles, obteniendo una calificación de 6.9/7.0.",
-      "cita": "Visualizar lo invisible para sanar lo social.",
-      "imagen": "dolemos-posts-2.webp",
+      "imagen": "dolemos-posts-2.png",
       "galeria": [
         {
           "layout": "full",
-          "src": "dolemos.jpg",
+          "src": "dolemos.webp",
           "sectionTitle": "Inicio"
         },
         {
@@ -136,11 +133,11 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "audio-overlay",
-          "src": "dolemos-retrato-1.webp",
+          "src": "dolemos-retrato-1.webp", // La imagen de fondo de tamaño completo
           "audioSrc": "dolemos-jocelyn-audiocarta.mp3",
-          "speaker": "Jocelyn M.",
-          "role": "Paciente / Taller DSI",
-          "title": "Audio Carta: Sobre el dolor y la justicia narrativa",
+          "speaker": "Jocelyn M.", // Quién habla
+          "role": "Paciente / Taller DSI", // Contexto o bajada
+          "title": "Audio Carta: Sobre el dolor y la justicia narrativa", // Breve descripción o razón
           "sectionTitle": "Testimonio Sonoro"
         },
         {
@@ -149,17 +146,29 @@ const DATOS_GLOBALES = {
         },
         {
           "src": "dolemos-taller-1.webp",
-          "text": "Talleres presenciales de cocreación enfocados en el bienestar y la expresión del colectivo.",
+          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Taller"
         },
         {
           "layout": "editorial-slider",
           "pages": [
-            { "src": "dolemos-taller-2.webp", "text": "Dinámicas grupales y co-creación." },
-            { "src": "dolemos-taller-3.webp", "text": "Proceso de registro visual." },
-            { "src": "dolemos-taller-4.webp", "text": "Materiales y cartografías corporales." },
-            { "src": "dolemos-taller-5.webp", "text": "Cierre de jornada de talleres." }
+            {
+              "src": "dolemos-taller-2.webp",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-taller-3.webp",
+              "text": "Caption del segundo slider."
+            },
+            {
+              "src": "dolemos-taller-4.webp",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-taller-5.webp",
+              "text": "Caption del primer slider."
+            }
           ]
         },
         {
@@ -167,8 +176,8 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos.jpg",
-          "text": "Construcción de la identidad visual y guías cromáticas del laboratorio.",
+          "src": "dolemos.webp",
+          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Branding"
         },
@@ -177,17 +186,17 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos-instagram.webp",
-          "text": "Estrategia digital en @proyecto.dolemos basada en el misterio y la revelación.",
+          "src": "dolemos-instagram.png",
+          "text": "El proyecto vivió en @proyecto.dolemos, donde se ejecutó una estrategia de contenido basada en el misterio y la revelación. Publicaciones con preguntas directas en rojo y retratos que fusionaban la cara de la paciente con su obra (sin editar) crearon una narrativa de vistazo previo. Esta comunicación orgánica no solo llenó la sala, sino que logró una comunidad activa antes de la inauguración.",
           "layout": "text-right"
         },
         {
-          "src": "dolemos-posts-2.webp",
+          "src": "dolemos-posts-2.png",
           "layout": "full"
         },
         {
-          "src": "dolemos-postal-2.webp",
-          "text": "Postales impresas para difusión y activismo territorial.",
+          "src": "dolemos-postal-2.png",
+          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right"
         },
         {
@@ -196,35 +205,68 @@ const DATOS_GLOBALES = {
         },
         {
           "src": "dolemos-expo.webp",
-          "text": "Montaje museográfico en Sala Lo Contador UC.",
+          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Expo"
         },
         {
           "layout": "editorial-slider",
           "pages": [
-            { "src": "dolemos-expo-preguntas.webp", "text": "Muros con preguntas orientadoras." },
-            { "src": "dolemos-mascara-colgante.mp4", "text": "Registro audiovisual de obra." },
-            { "src": "dolemos-expo-CFIBRO.webp", "text": "Colaboración Corporación Fibromialgia." },
-            { "src": "dolemos-expo-mascara.webp", "text": "Detalle de piezas escultóricas." },
-            { "src": "dolemos-mascara.mp4", "text": "Materialidad en movimiento." },
-            { "src": "dolemos-expo-foto.webp", "text": "Zona de retratos principales." },
-            { "src": "dolemos-cartas.mp4", "text": "Testimonios escritos por visitantes." },
-            { "src": "dolemos-expo-visitante.webp", "text": "Interacción del público en sala." },
-            { "src": "dolemos-tejido.mp4", "text": "Detalle de tramas textiles." },
-            { "src": "dolemos-postal-rellenada.webp", "text": "Postales con respuestas de asistentes." },
-            { "src": "dolemos-expo-visitantes-postales.webp", "text": "Muro colaborativo final." }
+            {
+              "src": "dolemos-expo-preguntas.webp",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-mascara-colgante.mp4",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-expo-CFIBRO.webp",
+              "text": "Caption del segundo slider."
+            },
+            {
+              "src": "dolemos-expo-mascara.webp",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-mascara.mp4",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-expo-foto.webp",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-cartas.mp4",
+              "text": "Caption del primer slider."
+            },
+                        {
+              "src": "dolemos-expo-visitante.webp",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-tejido.mp4",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "dolemos-postal-rellenada.webp",
+              "layout": "full"
+            },
+            {
+              "src": "dolemos-expo-visitantes-postales.webp",
+              "layout": "full"
+            }
           ]
         },
         {
           "layout": "impact-grid",
           "sectionTitle": "Impacto",
           "items": [
-            { "prefix": "+", "value": "3900", "label": "Visitas al Instagram" },
+            { "prefix": "+", "value": "3.900", "label": "Visitas al Instagram" },
             { "prefix": "+", "value": "50", "label": "Visitantes a la Expo" },
             { "value": "6.9", "label": "Título de Excelencia UC" }
           ]
-        }
+        },
       ],
       "categoria": "Estrategia",
       "filtro": ["branding"],
