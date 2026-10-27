@@ -57,7 +57,7 @@ const DATOS_GLOBALES = {
           "sectionTitle": "Redes sociales"
         },
         {
-          "src": "codu-insta.png",
+          "src": "codu-insta.webp",
           "layout": "full",
         },
         {
@@ -218,16 +218,16 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos-instagram.png",
+          "src": "dolemos-instagram.webp",
           "text": "El proyecto vivió en @proyecto.dolemos, donde se ejecutó una estrategia de contenido basada en el misterio y la revelación. Publicaciones con preguntas directas en rojo y retratos que fusionaban la cara de la paciente con su obra (sin editar) crearon una narrativa de vistazo previo. Esta comunicación orgánica no solo llenó la sala, sino que logró una comunidad activa antes de la inauguración.",
           "layout": "text-right"
         },
         {
-          "src": "dolemos-posts-2.png",
+          "src": "dolemos-posts-2.webp",
           "layout": "full"
         },
         {
-          "src": "dolemos-postal-2.png",
+          "src": "dolemos-postal-2.webp",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right"
         },
@@ -330,15 +330,15 @@ const DATOS_GLOBALES = {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "broderie-ximeyvero.png",
+              "src": "broderie-ximeyvero.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "broderie-diseño.png",
+              "src": "broderie-diseño.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "broderie-pijamas.png",
+              "src": "broderie-pijamas.webp",
               "text": "Caption del segundo slider."
             },
           ]
@@ -354,7 +354,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "text-left",
-      "src": "broderie-web-movil.png",
+      "src": "broderie-web-movil.webp",
       "text": "Nos alejamos de la estructura tradicional de e-commerce frío para construir un Lookbook de revista rico en imágenes y detalles visuales. El diseño pone el foco en el bienestar como estilo de vida, recordando al usuario que la elegancia en los momentos de descanso es un acto esencial de autocuidado y de sentirse bonita en casa.",
     },
     {
@@ -581,7 +581,7 @@ const DATOS_GLOBALES = {
       "desafio": "A través de las vivencias y la mirada de Peque, una niña chilena de 5 años, este proyecto editorial e ilustrado rescata y pone en valor el imaginario colectivo de la infancia: aquellas teorías mágicas y entrañables —como creer que las vacas café dan leche con chocolate o que la luna nos persigue en el auto— que todos compartimos al crecer. Nacido en el contexto de la Escuela de Diseño UC, dentro del ramo Ilustración Creativa, el fanzine y su extensión digital funcionan como un puente de memoria y empatía para el público adulto, invitándolo a reconectar con su propio niño interior.",
       "solucion": "Desarrollo de un sistema híbrido (análogo y digital) con estética de risografía, trazos manuscritos y una paleta de alto contraste que transita con naturalidad entre la ternura y la crítica social.",
       "cita": "La imaginación infantil como espacio de memoria y vocación política.",
-      "imagen": "b-web.png",
+      "imagen": "b-web.webp",
       "galeria": [
           {
           "layout": "text-left",
@@ -591,7 +591,7 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "text-left",
-          "src":  "barbara-web-ant.png",
+          "src":  "barbara-web-ant.webp",
           "text": "Para construir el universo narrativo de Peque, el desarrollo del proyecto contempló un levantamiento de información mediante encuestas cualitativas. El objetivo fue recolectar directamente desde la memoria de los adultos aquellos pensamientos infantiles más significativos. A partir de esta colección de relatos compartidos, se seleccionaron los hitos conceptuales que posteriormente se tradujeron en las ilustraciones del proyecto, asegurando un vínculo auténtico y directo entre las historias y el espectador.",
           "sectionTitle": "Intro"
         },
@@ -616,24 +616,24 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "full",
-          "src": "b-web.png"
+          "src": "b-web.webp"
         },
         {
           "layout": "full",
-          "src": "b-linkedin2.png"
+          "src": "b-linkedin2.webp"
         },
         {
           "layout": "text-left",
-          "src": "b-insta.png"
+          "src": "b-insta.webp"
         },
         {
           "layout": "full",
-          "src": "b-tarjeta.png"
+          "src": "b-tarjeta.webp"
         },
                 {
           "src": "https://www.barbarapuelmaycia.cl",
           "layout": "live-portal",
-          "img": "b-web.png"
+          "img": "b-web.webp"
         },
       ],
       "categoria": "web",
@@ -649,7 +649,7 @@ const DATOS_GLOBALES = {
   "herramientas": ["Illustrator", "Figma", "Shopify", "Canva Pro"],
   "descripcion": "Behealthy, marca de suplementos basados en ingredientes naturales, necesitaba dar un salto de madurez visual. El reto principal no era únicamente rediseñar empaques para vender más, sino transformar un simple catálogo de productos en una plataforma que transmitiera verdadero bienestar y confianza en cada punto de contacto. El proyecto comenzó con la reestructuración de su línea estrella y, debido al éxito de la implementación, evolucionó hacia la dirección de arte integral de la marca, abarcando lanzamientos físicos, ecosistema digital y estrategia de contenidos.",
   "cita": "Dirección de arte integral: desde la precisión técnica de la etiqueta médica hasta la experiencia de compra en Shopify.",
-  "imagen": "behealthy-melena.png",
+  "imagen": "behealthy-melena.webp",
   "categoria": "Branding",
   "filtro": ["branding", "packaging"],
   "claseTamano": "item-wide",
@@ -680,7 +680,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "text-left",
-      "src": "behealthy-melena.png",
+      "src": "behealthy-melena.webp",
       "text": "Nos alejamos de la estructura tradicional de e-commerce frío para construir un Lookbook de revista rico en imágenes y detalles visuales. El diseño pone el foco en el bienestar como estilo de vida, recordando al usuario que la elegancia en los momentos de descanso es un acto esencial de autocuidado y de sentirse bonita en casa.",
       "sectionTitle": "Intro",
     },
@@ -690,7 +690,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "text-left",
-      "src": "detox-gomitas.png",
+      "src": "detox-gomitas.webp",
       "text": "Nos alejamos de la estructura tradicional de e-commerce frío para construir un Lookbook de revista rico en imágenes y detalles visuales. El diseño pone el foco en el bienestar como estilo de vida, recordando al usuario que la elegancia en los momentos de descanso es un acto esencial de autocuidado y de sentirse bonita en casa.",
       "sectionTitle": "Detox",
     },
