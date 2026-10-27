@@ -970,12 +970,19 @@ document.addEventListener('DOMContentLoaded', () => {
     initPageVisibility();
     initMobileMenu();
     
+    // Ejecutar de inmediato el detalle del proyecto si estamos en proyect.html
+    if (window.location.pathname.includes('proyect.html')) {
+        initProjectDetail();
+    }
+
     setTimeout(() => {
         initCustomCursor();
         initHeroTypewriter();
         initScrollAnimations();
         initPortfolioGrid();
-        initProjectDetail();
+        if (!window.location.pathname.includes('proyect.html')) {
+            initProjectDetail();
+        }
         initHoverReveal();
         initHeaderContrast();
         initPageTransitions();
