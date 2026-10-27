@@ -12,7 +12,7 @@ const DATOS_GLOBALES = {
       "desafio": "La marca necesitaba construir su universo desde cero. El reto era crear una identidad 'Bold Minimal' y traducirla en una plataforma de venta robusta y un evento de lanzamiento inmersivo.",
       "solucion": "Lideré el diseño integral. Construí el e-commerce en Shopify con integraciones avanzadas y diseñé la atmósfera del evento (gigantografías y manifiesto), logrando coherencia total entre lo digital y lo físico.",
       "cita": "Trabajo en equipo para llevar el código a las paredes.",
-      "imagen": "codu-web2.jpg", 
+      "imagen": "codu-web2.webp", 
       "galeria": [
         {
           "src": "codu.jpg",
@@ -151,7 +151,7 @@ const DATOS_GLOBALES = {
       "desafio": "Cómo abrir un diálogo social sobre condiciones invisibilizadas a través de dispositivos visuales estratégicos.",
       "solucion": "Desarrollé una metodología de visualización que transforma testimonios en experiencias tangibles, obteniendo una calificación de 6.9/7.0.",
       "cita": "Visualizar lo invisible para sanar lo social.",
-      "imagen": "dolemos-posts-2.png",
+      "imagen": "dolemos-posts-2.webp",
       "galeria": [
         {
           "layout": "full",
@@ -398,7 +398,7 @@ const DATOS_GLOBALES = {
   "desafio": "Organizar el caos gráfico preexistente para proyectar una imagen profesional y confiable ante marcas y donantes, garantizando herramientas autónomas para sus voluntarios.",
   "solucion": "Sistema de marca de 3 pilares: Rediseño funcional de imagotipo + paleta cromática y tipografías; Ecosistema de plantillas en Instagram por intenciones comunicacionales; y Material operativo para jornadas junto a merchandising ilustrado entregado $100\%$ editable en Canva.",
   "cita": "Estructura, consistencia y autonomía: un sistema gráfico diseñado para financiar la labor del refugio.",
-  "imagen": "alma-polera.jpg",
+  "imagen": "alma-polera.webp",
   "categoria": "Branding",
   "filtro": ["branding"],
   "claseTamano": "item-wide",
