@@ -438,12 +438,16 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "full",
-          "src": "hallo-patron.webp"
+          "src": "hallo-verde.webp"
         },
         {
           "layout": "full",
-          "src": "hallo-verde.webp"
-        }
+          "src": "hallo-fucsia.webp"
+        },
+        {
+          "layout": "full",
+          "src": "hallo-celeste.webp"
+        },
       ],
       "categoria": "Ilustración",
       "filtro": ["ilustración", "packaging"],
