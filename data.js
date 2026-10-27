@@ -407,7 +407,7 @@ const DATOS_GLOBALES = {
       "galeria": [
         {
           "layout": "text-left",
-          "src": "barbara-logo.webp",
+          "src": "barbara-oficina.webp",
           "text": "Desarrollo de marca y directrices de comunicación corporativa.",
           "sectionTitle": "Intro"
         },
@@ -418,6 +418,14 @@ const DATOS_GLOBALES = {
         {
           "layout": "full",
           "src": "b-linkedin2.webp"
+        },
+        {
+          "layout": "full",
+          "src": "b-insta.webp"
+        },
+        {
+          "layout": "full",
+          "src": "b-tarjeta.webp"
         },
         {
           "src": "https://www.barbarapuelmaycia.cl",
