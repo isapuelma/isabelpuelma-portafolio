@@ -705,32 +705,32 @@ const DATOS_GLOBALES = {
       "herramientas": ["Procreate", "Illustrator"],
       "descripcion": "Proyecto para el OPR de Ilustración Creativa. El Desafío era subvertir el cliché de la festividad de Halloween, alejándose de los códigos visuales tradicionales (las brujas, el terror clásico y las paletas oscuras) para proponer un giro autoral. Mi propuesta era traducir la experiencia lúdica de esta fecha -el juego, la recolección de dulces y la estética infantil- hacia un estilo ilustrativo propio y fresco, creando un ecosistema visual que evocara diversión y ternura en lugar de miedo.",
       "cita": "Diseño comercial con distinción máxima.",
-      "imagen": "hallo.jpg",
+      "imagen": "hallo.webp",
       "galeria": [
         {
           "layout": "full",
-          "src": "hallo.jpg"
+          "src": "hallo.webp"
         },
         {
           "layout": "narrative-center",
           "text": "Para generar esa conexión emocional e inmediata, la propuesta se centró en un enfoque Cute Halloween."
         },
         {
-          "src": "hallo-patron.jpg",
+          "src": "hallo-patron.webp",
           "text": "Los elementos del imaginario de Halloween fueron reinterpretados desde la ternura: una calavera de la que brotan flores, una telaraña con un corazón en el centro y calabazas amigables, todo conviviendo en un universo visual lleno de confeti, paletas y pócimas dulces. Los bocetos originales trazados en Procreate fueron vectorizados íntegramente en Adobe Illustrator, asegurando resoluciones óptimas para imprenta.",
           "layout": "text-right"
         },
         {
           "layout": "full",
-          "src": "hallo-verde.jpg"
+          "src": "hallo-verde.webp"
         },
         {
           "layout": "full",
-          "src": "hallo-fucsia.jpg"
+          "src": "hallo-fucsia.webp"
         },
         {
           "layout": "full",
-          "src": "hallo-celeste.jpg"
+          "src": "hallo-celeste.webp"
         }
       ],
       "categoria": "Ilustración",
