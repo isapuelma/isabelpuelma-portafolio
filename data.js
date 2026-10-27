@@ -9,9 +9,6 @@ const DATOS_GLOBALES = {
       "servicios": ["Branding", "Shopify/UX"],
       "herramientas": ["Shopify", "Figma", "Klaviyo", "Adobe Suite"],
       "descripcion": "Sergio y Felipe Coddou —perfiles híbridos entre la música, el arte visual y la gestión cultural— buscaban crear un puente entre el artista local y el coleccionista ciudadano. El desafío era ambicioso: transformar un logotipo huérfano en una identidad de marca omnicanal y una plataforma de venta robusta (Shopify) que funcionara como su casa matriz digital, optimizando el presupuesto sin sacrificar el sentimiento high-end.",
-      "desafio": "La marca necesitaba construir su universo desde cero. El reto era crear una identidad 'Bold Minimal' y traducirla en una plataforma de venta robusta y un evento de lanzamiento inmersivo.",
-      "solucion": "Lideré el diseño integral. Construí el e-commerce en Shopify con integraciones avanzadas y diseñé la atmósfera del evento (gigantografías y manifiesto), logrando coherencia total entre lo digital y lo físico.",
-      "cita": "Trabajo en equipo para llevar el código a las paredes.",
       "imagen": "codu-web2.webp", 
       "galeria": [
         {
@@ -123,7 +120,7 @@ const DATOS_GLOBALES = {
       "galeria": [
         {
           "layout": "full",
-          "src": "dolemos.webp",
+          "src": "dolemos.jpg",
           "sectionTitle": "Inicio"
         },
         {
@@ -167,7 +164,7 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos.webp",
+          "src": "dolemos.jpg",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Branding"
@@ -271,9 +268,6 @@ const DATOS_GLOBALES = {
       "servicios": ["Branding", "Diseño UI/UX (Shopify)", "Packaging & RRSS"],
       "herramientas": ["Shopify", "Figma", "Photoshop"],
       "descripcion": "Broderie transformó su presencia digital modernizando su identidad visual y creando una experiencia e-commerce que transmite tranquilidad, sofisticación y confianza absoluta.",
-      "desafio": "Sistematizar un catálogo complejo de producción nacional en un ecosistema responsivo que refleje la calidad sensorial del textil.",
-      "solucion": "Transformación digital integral: reingeniería vectorial de marca, lookbook fotográfico de revista y optimización en Shopify.",
-      "cita": "Elevar el estándar del descanso y la elegancia cotidiana.",
       "imagen": "broderie-web.webp",
       "categoria": "Web",
       "filtro": ["web", "branding"],
@@ -336,9 +330,6 @@ const DATOS_GLOBALES = {
       "servicios": ["Identidad Visual", "Ecosistema Social Media", "Diseño Operativo & Eventos", "Merchandising & Recaudación"],
       "herramientas": ["Illustrator", "Procreate", "Canva Pro"],
       "descripcion": "Fundación Alma rescata, rehabilita y promueve la adopción de perritos abandonados. El proyecto sistematizó toda su identidad en tres pilares: sistema gráfico unificado, ecosistema digital en redes y despliegue operativo para eventos y recaudación.",
-      "desafio": "Organizar el caos gráfico preexistente para proyectar una imagen profesional y confiable ante donantes.",
-      "solucion": "Sistema de marca de 3 pilares: Rediseño de imagotipo, plantillas editables en Canva y material operativo para jornadas.",
-      "cita": "Estructura, consistencia y autonomía para financiar la labor del refugio.",
       "imagen": "alma-polera.webp",
       "categoria": "Branding",
       "filtro": ["branding"],
@@ -391,9 +382,6 @@ const DATOS_GLOBALES = {
       "servicios": ["Branding", "Diseño Web", "Optimización LinkedIn"],
       "herramientas": ["Illustrator", "WordPress", "Figma"],
       "descripcion": "Rediseño completo de identidad corporativa, plataforma web y posicionamiento digital para el estudio jurídico Bárbara Puelma & Cía.",
-      "desafio": "Transmitir solidez jurídica y cercanía humana en una firma de abogadas con trayectoria.",
-      "solucion": "Sistema visual sobrio, tipografías editoriales y sitio web optimizado para conversión y lectura profesional.",
-      "cita": "Rigor jurídico traducido en claridad visual.",
       "imagen": "b-web.webp",
       "galeria": [
         {
@@ -436,8 +424,6 @@ const DATOS_GLOBALES = {
       "servicios": ["Dirección de Arte", "Packaging & Normativa Legal", "Diseño UI/UX (Shopify)"],
       "herramientas": ["Illustrator", "Figma", "Shopify"],
       "descripcion": "Dirección de arte integral y rediseño de empaques para suplementos naturales, optimizando la experiencia en Shopify.",
-      "desafio": "Transmitir confianza clínica y bienestar natural en etiquetas normadas por estrictos estándares.",
-      "solucion": "Sistema tipográfico limpio, códigos cromáticos por categoría y experiencia web fluida.",
       "cita": "Bienestar respaldado por diseño estratégico.",
       "imagen": "behealthy-melena.webp",
       "categoria": "Branding",
@@ -570,7 +556,6 @@ const DATOS_GLOBALES = {
     { 
       "titulo": "Diseño Gráfico & Editorial", 
       "descripcion": "Piezas estratégicas para la comunicación física y digital.", 
-      "enfoque": "Soluciones tangibles que refuerzan la presencia de marca en el mundo real.",
       "items": ["Packaging (Estructural & Gráfico)", "Diseño Editorial", "Papelería Corporativa"],
       "icono": "ph-package", 
       "herramientas": ["InDesign", "Illustrator", "Dielines", "Pantone"],
