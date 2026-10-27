@@ -111,13 +111,13 @@ const DATOS_GLOBALES = {
       "filtro": ["branding", "web"],
       "claseTamano": "item-wide"
     },
-       {
+    {
       "id": "dolemos",
       "titulo": "DOLEMOS",
       "cliente": "Proyecto de Título UC",
       "year": "2025",
       "servicios": ["Investigación-Creación", "Branding", "Diseño Museográfico", "Dirección de Arte"],
-      "herramientas": ["Adobe Suite", "Frigma", "Fotografía"],
+      "herramientas": ["Adobe Suite", "Figma", "Fotografía"],
       "descripcion": "Dolemos: Laboratorio de Diseño Crítico (DSI) enfocado en la visibilización del dolor invisible. Un proyecto de investigación-acción que integró identidad visual, museografía inmersiva y gestión de contenidos interdisciplinarios para generar justicia narrativa.",
       "imagen": "dolemos-posts-2.webp",
       "galeria": [
@@ -133,11 +133,11 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "audio-overlay",
-          "src": "dolemos-retrato-1.webp", // La imagen de fondo de tamaño completo
+          "src": "dolemos-retrato-1.webp",
           "audioSrc": "dolemos-jocelyn-audiocarta.mp3",
-          "speaker": "Jocelyn M.", // Quién habla
-          "role": "Paciente / Taller DSI", // Contexto o bajada
-          "title": "Audio Carta: Sobre el dolor y la justicia narrativa", // Breve descripción o razón
+          "speaker": "Jocelyn M.",
+          "role": "Paciente / Taller DSI",
+          "title": "Audio Carta: Sobre el dolor y la justicia narrativa",
           "sectionTitle": "Testimonio Sonoro"
         },
         {
@@ -240,7 +240,7 @@ const DATOS_GLOBALES = {
               "src": "dolemos-cartas.mp4",
               "text": "Caption del primer slider."
             },
-                        {
+            {
               "src": "dolemos-expo-visitante.webp",
               "text": "Caption del primer slider."
             },
@@ -266,7 +266,7 @@ const DATOS_GLOBALES = {
             { "prefix": "+", "value": "50", "label": "Visitantes a la Expo" },
             { "value": "6.9", "label": "Título de Excelencia UC" }
           ]
-        },
+        }
       ],
       "categoria": "Estrategia",
       "filtro": ["branding"],
@@ -494,7 +494,7 @@ const DATOS_GLOBALES = {
         {
           "layout": "full",
           "src": "hallo-celeste.webp"
-        },
+        }
       ],
       "categoria": "Ilustración",
       "filtro": ["ilustración", "packaging"],
@@ -521,11 +521,11 @@ const DATOS_GLOBALES = {
             { "src": "peque-luna.webp", "text": "La luna que nos persigue." },
             { "src": "peque-auto.webp", "text": "Historias en el asiento trasero." }
           ]
-        }
+        },
         {
           "layout": "full",
           "src": "peque.gif"
-        },
+        }
       ],
       "categoria": "Ilustracion",
       "filtro": ["ilustración"],
@@ -544,18 +544,18 @@ const DATOS_GLOBALES = {
         {
           "layout": "long-scroll",
           "sectionTitle": "MAQUETACIÓN COMPLETA",
-          "src": "print-flores.jpg",
+          "src": "print-flores.jpg"
         },
         {
           "layout": "long-scroll",
           "sectionTitle": "MAQUETACIÓN COMPLETA",
-          "src": "print-campo.jpg",
-        },
+          "src": "print-campo.jpg"
+        }
       ],
       "categoria": "Ilustración",
       "filtro": ["ilustración"],
       "claseTamano": "item-wide"
-    },
+    }
   ],
   "servicios": [
     { 
