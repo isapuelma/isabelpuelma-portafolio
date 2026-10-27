@@ -126,7 +126,7 @@ const DATOS_GLOBALES = {
       "galeria": [
         {
           "layout": "full",
-          "src": "dolemos.webp",
+          "src": "dolemos.jpg",
           "sectionTitle": "Inicio"
         },
         {
@@ -167,7 +167,7 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos.webp",
+          "src": "dolemos.jpg",
           "text": "Construcción de la identidad visual y guías cromáticas del laboratorio.",
           "layout": "text-right",
           "sectionTitle": "Branding"
