@@ -15,11 +15,11 @@ const DATOS_GLOBALES = {
       "imagen": "codu-web2.webp", 
       "galeria": [
         {
-          "src": "codu.jpg",
+          "src": "codu.webp",
           "layout": "full"
         },
         {
-          "src": "codu-hermanos.jpg",
+          "src": "codu-hermanos.webp",
           "text": " Codu nació con un propósito profundo: democratizar el arte de autor y generar un modelo económico justo para creadores locales. El gran reto estratégico era evitar que la marca se percibiera como simple venta de merchandising. Debíamos construir una verdadera galería de prendas y prints; una plataforma que se sintiera premium y curada, capaz de unificar estilos artísticos radicalmente distintos bajo el manifiesto The right to party. ",
           "layout": "narrative-block.layout-text-right",
           "sectionTitle": "Problema"
@@ -30,11 +30,11 @@ const DATOS_GLOBALES = {
           "sectionTitle": " Identidad Visual"
         },
         {
-          "src": "codu-logo.jpg",
+          "src": "codu-logo.webp",
           "layout": "full",
         },
         {
-          "src": "codu-colores.jpg",
+          "src": "codu-colores.webp",
           "layout": "full",
         },
         {
@@ -43,15 +43,15 @@ const DATOS_GLOBALES = {
           "sectionTitle": " Identidad Visual"
         },
         {
-          "src": "codu-polera.jpg",
+          "src": "codu-polera.webp",
           "layout": "full"
         },
                 {
-          "src": "codu-obra.jpg",
+          "src": "codu-obra.webp",
           "layout": "full"
         },
         {
-          "src": "codu-cel.jpg",
+          "src": "codu-cel.webp",
           "text": "Para asegurar la escalabilidad del proyecto, el trabajo incluyó la entrega de un manual de identidad visual (códigos de color, tipografías y usos) y un set de plantillas para redes sociales, permitiendo a los fundadores mantener una comunicación coherente y autónoma en sus canales digitales",
           "layout": "text-right",
           "sectionTitle": "Redes sociales"
@@ -61,7 +61,7 @@ const DATOS_GLOBALES = {
           "layout": "full",
         },
         {
-          "src": "codu-web2.jpg",
+          "src": "codu-web2.webp",
           "layout": "text-right",
           "text": " La experiencia digital cobró vida en la fiesta de inauguración de enero. Se prepararon archivos milimétricos vectorizados (SVG) para la producción de pendones y gráficas gigantes en vinilo adhesivo instaladas en la fachada del edificio, logrando una inmersión total de la marca durante todo el mes que duró el pop-up.",
           "sectionTitle": "Diseño Web"
@@ -71,16 +71,16 @@ const DATOS_GLOBALES = {
           "layout": "full",
         },
         {
-          "src": "codu-afiche-gigante.jpg",
+          "src": "codu-afiche-gigante.webp",
           "text": " La experiencia digital cobró vida en la fiesta de inauguración de enero. Se prepararon archivos milimétricos vectorizados (SVG) para la producción de pendones y gráficas gigantes en vinilo adhesivo instaladas en la fachada del edificio, logrando una inmersión total de la marca durante todo el mes que duró el pop-up.",
           "layout": "text-left"
         },
                 {
-          "src": "codu-signo.jpg",
+          "src": "codu-signo.webp",
           "layout": "full",
         },
         {
-          "src": "codu-afiche.jpg",
+          "src": "codu-afiche.webp",
           "layout": "full",
           "sectionTitle": "Expo MUT"
         },
@@ -88,35 +88,35 @@ const DATOS_GLOBALES = {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "codu-expo-gente.jpg",
+              "src": "codu-expo-gente.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "codu-expo-dj.jpg",
+              "src": "codu-expo-dj.webp",
               "text": "Caption del segundo slider."
             },
             {
-              "src": "codu-obras-pared.jpg",
+              "src": "codu-obras-pared.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "codu-flama-letrero.jpg",
+              "src": "codu-flama-letrero.webp",
               "text": "Caption del segundo slider."
             },
             {
-              "src": "codu-expo-intro.jpg",
+              "src": "codu-expo-intro.webp",
               "text": "Caption del segundo slider."
             },
             {
-              "src": "codu-expo-poleras.jpg",
+              "src": "codu-expo-poleras.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "codu-botellas.jpg",
+              "src": "codu-botellas.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "codu-expo-letrero-2.jpg",
+              "src": "codu-expo-letrero-2.webp",
               "text": "Caption del primer slider."
             }
           ]
@@ -124,7 +124,7 @@ const DATOS_GLOBALES = {
         {
           "src": "https://www.codu.cl",
           "layout": "live-portal",
-          "img": "codu.jpg"
+          "img": "codu.webp"
         },
         {
           "layout": "impact-grid",
@@ -155,17 +155,17 @@ const DATOS_GLOBALES = {
       "galeria": [
         {
           "layout": "full",
-          "src": "dolemos.jpg",
+          "src": "dolemos.webp",
           "sectionTitle": "Inicio"
         },
         {
-          "src": "dolemos-retrato-1.jpg",
+          "src": "dolemos-retrato-1.webp",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right"
         },
         {
           "layout": "audio-overlay",
-          "src": "dolemos-retrato-1.jpg", // La imagen de fondo de tamaño completo
+          "src": "dolemos-retrato-1.webp", // La imagen de fondo de tamaño completo
           "audioSrc": "dolemos-jocelyn-audiocarta.mp3",
           "speaker": "Jocelyn M.", // Quién habla
           "role": "Paciente / Taller DSI", // Contexto o bajada
@@ -173,11 +173,11 @@ const DATOS_GLOBALES = {
           "sectionTitle": "Testimonio Sonoro"
         },
         {
-          "src": "dolemos-sliueta.jpg",
+          "src": "dolemos-sliueta.webp",
           "layout": "full"
         },
         {
-          "src": "dolemos-taller-1.jpg",
+          "src": "dolemos-taller-1.webp",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Taller"
@@ -186,35 +186,35 @@ const DATOS_GLOBALES = {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "dolemos-taller-2.jpg",
+              "src": "dolemos-taller-2.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-taller-3.jpg",
+              "src": "dolemos-taller-3.webp",
               "text": "Caption del segundo slider."
             },
             {
-              "src": "dolemos-taller-4.jpg",
+              "src": "dolemos-taller-4.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-taller-5.jpg",
+              "src": "dolemos-taller-5.webp",
               "text": "Caption del primer slider."
             }
           ]
         },
         {
-          "src": "dolemos-retratos.jpg",
+          "src": "dolemos-retratos.webp",
           "layout": "full"
         },
         {
-          "src": "dolemos.jpg",
+          "src": "dolemos.webp",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Branding"
         },
         {
-          "src": "dolemos-paleta.jpg",
+          "src": "dolemos-paleta.webp",
           "layout": "full"
         },
         {
@@ -232,11 +232,11 @@ const DATOS_GLOBALES = {
           "layout": "text-right"
         },
         {
-          "src": "dolmos-postales-full.jpg",
+          "src": "dolmos-postales-full.webp",
           "layout": "full"
         },
         {
-          "src": "dolemos-expo.jpg",
+          "src": "dolemos-expo.webp",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Expo"
@@ -245,7 +245,7 @@ const DATOS_GLOBALES = {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "dolemos-expo-preguntas.jpg",
+              "src": "dolemos-expo-preguntas.webp",
               "text": "Caption del primer slider."
             },
             {
@@ -253,11 +253,11 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-expo-CFIBRO.jpg",
+              "src": "dolemos-expo-CFIBRO.webp",
               "text": "Caption del segundo slider."
             },
             {
-              "src": "dolemos-expo-mascara.jpg",
+              "src": "dolemos-expo-mascara.webp",
               "text": "Caption del primer slider."
             },
             {
@@ -265,7 +265,7 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-expo-foto.jpg",
+              "src": "dolemos-expo-foto.webp",
               "text": "Caption del primer slider."
             },
             {
@@ -273,7 +273,7 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
                         {
-              "src": "dolemos-expo-visitante.jpg",
+              "src": "dolemos-expo-visitante.webp",
               "text": "Caption del primer slider."
             },
             {
@@ -281,11 +281,11 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-postal-rellenada.jpg",
+              "src": "dolemos-postal-rellenada.webp",
               "layout": "full"
             },
             {
-              "src": "dolemos-expo-visitantes-postales.jpg",
+              "src": "dolemos-expo-visitantes-postales.webp",
               "layout": "full"
             }
           ]
@@ -315,14 +315,14 @@ const DATOS_GLOBALES = {
   "desafio": "Sistematizar un catálogo masivo y complejo de producción nacional (ropa de cama, pijamas de uso diario, loungewear, lencería de novias, líneas de hombres y niños) en un ecosistema responsivo que refleje la calidad sensorial del textil y elimine las barreras de compra online.",
   "solucion": "Transformación digital integral: reingeniería vectorial de marca, paleta de colores de naturalidad, dirección de arte con retoque fotográfico suave de estilo 'catálogo de revista', navegación por categorías/usos, fichas transparentes con guía de tallas (educación sobre el encogimiento textil), empaques físicos (bolsas y stickers), ecosistema en Canva para redes y automatizaciones en Klaviyo.",
   "cita": "Elevar el estándar del descanso: traducir la elegancia y naturalidad de la producción nacional en una experiencia e-commerce de alto impacto visual.",
-  "imagen": "broderie-web.jpg",
+  "imagen": "broderie-web.webp",
   "categoria": "Web",
   "filtro": ["web", "branding"],
   "claseTamano": "item-wide",
   "galeria": [
     {
       "layout": "text-left",
-      "src": "broderie-ximeyvero-frente-2.jpg",
+      "src": "broderie-ximeyvero-frente-2.webp",
       "text": "Nos alejamos de la estructura tradicional de e-commerce frío para construir un Lookbook de revista rico en imágenes y detalles visuales. El diseño pone el foco en el bienestar como estilo de vida, recordando al usuario que la elegancia en los momentos de descanso es un acto esencial de autocuidado y de sentirse bonita en casa.",
       "sectionTitle": "Problema"
     },
@@ -345,12 +345,12 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "full",
-      "src": "broderie-logos.jpg",
+      "src": "broderie-logos.webp",
       "sectionTitle": "Idenridad visual"
     },
     {
       "layout": "full",
-      "src": "broderie-paleta.jpg",
+      "src": "broderie-paleta.webp",
     },
     {
       "layout": "text-left",
@@ -359,22 +359,22 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "full",
-      "src": "broderie-web.jpg",
+      "src": "broderie-web.webp",
       "sectionTitle": "Diseño web"
     },
     {
       "layout": "text-left",
-      "src": "broderie-bolsa-colgante.jpg",
+      "src": "broderie-bolsa-colgante.webp",
       "text": "Nos alejamos de la estructura tradicional de e-commerce frío para construir un Lookbook de revista rico en imágenes y detalles visuales. El diseño pone el foco en el bienestar como estilo de vida, recordando al usuario que la elegancia en los momentos de descanso es un acto esencial de autocuidado y de sentirse bonita en casa.",
       "sectionTitle": "Packaging"
     },
     {
       "layout": "full",
-      "src": "broderie-etiqueta-tela-2.jpg",
+      "src": "broderie-etiqueta-tela-2.webp",
     },
     {
       "layout": "full",
-      "src": "broderie-zoom-caja.jpg",
+      "src": "broderie-zoom-caja.webp",
     },
     {
           "layout": "impact-grid",
@@ -408,28 +408,28 @@ const DATOS_GLOBALES = {
        ========================================================================= */
     {
       "layout": "full",
-      "src": "alma-polera.jpg",
+      "src": "alma-polera.webp",
       "caption": "Aplicación de marca en indumentaria oficial para voluntarios y coordinadores de la fundación."
     },
     {
       "layout": "text-left",
       "sectionTitle": "Intro",
-      "src": "alma-refugio.jpg",
+      "src": "alma-refugio.webp",
       "text": "El activo más valioso de una fundación sin fines de lucro es la confianza. Fundación Alma contaba con una vocación increíble, pero su identidad visual fragmentada y la falta de cohesión en sus comunicaciones restaban credibilidad a su labor. El desafío principal no era solo hacer un logo nuevo, sino elevar la percepción de la marca para transmitir la seriedad y el profesionalismo necesarios para asegurar nuevas alianzas estratégicas y fidelizar a sus donantes.",
     },
     {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "alma-perrito-4.jpg",
+              "src": "alma-perrito-4.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "alma-perrito-2.jpg",
+              "src": "alma-perrito-2.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "alma-perrito-3.jpg",
+              "src": "alma-perrito-3.webp",
               "text": "Caption del segundo slider."
             },
           ]
@@ -447,8 +447,8 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "comparison",
-      "before": "alma-antiguo.jpg",
-      "after": "alma-logo.jpg",
+      "before": "alma-antiguo.webp",
+      "after": "alma-logo.webp",
       "labelBefore": "LOGOTIPO ANTERIOR",
       "labelAfter": "REDISEÑO ISABEL PUELMA",
       "captionText": "/// REDISEÑO DE IMAGOTIPO: Optimización de proporciones, limpieza de trazos y creación de la versión Principal (con huesos corporativos), Alternativa e Icono aislado para redes.",
@@ -456,7 +456,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "full",
-      "src": "alma-colores.jpg",
+      "src": "alma-colores.webp",
     },
 
     /* =========================================================================
@@ -473,19 +473,19 @@ const DATOS_GLOBALES = {
       "title": "Plantillas de Instagram por Objetivo Comunicacional",
       "items": [
         {
-          "src": "alma-rrss.jpg",
+          "src": "alma-rrss.webp",
           "caption": "Historias Educativas e Informativas (1080x1920px): Afiches clave para explicar '¿Cómo colaborar?', 'Donaciones necesarias' y 'Coordenadas de visitas'."
         },
         {
-          "src": "alma-perrito-semana.jpg",
+          "src": "alma-perrito-semana.webp",
           "caption": "Potenciador de Adopciones: Plantillas 'Perrito de la Semana' (Gastón, Pachi, Kuki) diseñadas para destacar la historia de cada rescatado y agilizar su adopción."
         },
         {
-          "src": "alma-posts.jpg",
+          "src": "alma-posts.webp",
           "caption": "Feed Educativo y Comunitario (1080x1080px): Formatos para 'Tips de verano', 'Cuidado responsable' y comunicados de la comunidad."
         },
         {
-          "src": "alma-transferencia.jpg",
+          "src": "alma-transferencia.webp",
           "caption": "Transparencia Financiera: Gráfica estandarizada para Datos de Transferencia Bancaria, proyectando seguridad visual en cada solicitud de aporte."
         }
       ]
@@ -505,38 +505,38 @@ const DATOS_GLOBALES = {
     {
           "layout": "text-left",
           "sectionTitle": "Eventos",
-          "src": "alma-templon.jpg",
+          "src": "alma-templon.webp",
           "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos.",
     },
     {
       "layout": "editorial-slider",
       "items": [
         {
-          "src": "alma-credenciales.jpg",
+          "src": "alma-credenciales.webp",
           "caption": "Identificación en Terreno: Credenciales con código QR (54x85.6mm) para distinguir rápidamente al equipo de voluntarios durante las jornadas."
         },
         {
-          "src": "alma-templon.jpg",
+          "src": "alma-templon.webp",
           "caption": "Pendón '¡Ayúdanos!' (Legibilidad a Distancia): Diseñado para impacto visual lejano en eventos masivos con llamados a la acción claros."
         },
         {
-          "src": "alma-pendon-rescate.jpg",
+          "src": "alma-pendon-rescate.webp",
           "caption": "Pendón 'Adopción y Rescate': Formato informativo de soporte para detallar la labor de la fundación y sus vías de contacto."
         },
         {
-          "src": "alma-pendon-salvemos.jpg",
+          "src": "alma-pendon-salvemos.webp",
           "caption": "Pendón Gigante 'Salvemos Juntos' (60x120cm): Estructura principal de fondo para convocatorias e inscripciones de socios."
         },
         {
-          "src": "alma-afiches.jpg",
+          "src": "alma-afiches.webp",
           "caption": "Afiche de Jornadas de Adopción: Plantilla diferenciada para que en Instagram el usuario reconozca de inmediato un evento presencial."
         },
         {
-          "src": "alma-certificado.jpg",
+          "src": "alma-certificado.webp",
           "caption": "Certificado Oficial de Adopción (A4): Documento con estética de la marca que formaliza el compromiso del tutor al adoptar un perrito."
         },
         {
-          "src": "alma-tajetas.jpg",
+          "src": "alma-tajetas.webp",
           "caption": "Papelería e Impresión: Tarjetas corporativas con plantilla A4 de impresión masiva a doble cara (10 unidades por hoja)."
         }
       ]
@@ -546,7 +546,7 @@ const DATOS_GLOBALES = {
       {
           "layout": "text-left",
           "sectionTitle": "Merchandising",
-          "src": "alma-tazas-2.jpg",
+          "src": "alma-tazas-2.webp",
           "text": "Merchandising de Recaudación (Ilustración Aplicada): El sistema se expandió a productos físicos. Se desarrollaron ilustraciones específicas para tazas y stickers promocionales, creando una nueva línea de ingresos directos para financiar las operaciones de la fundación.",
         },
          
@@ -585,7 +585,7 @@ const DATOS_GLOBALES = {
       "galeria": [
           {
           "layout": "text-left",
-          "src":  "barbara-logo.jpg",
+          "src":  "barbara-logo.webp",
           "text": "Para construir el universo narrativo de Peque, el desarrollo del proyecto contempló un levantamiento de información mediante encuestas cualitativas. El objetivo fue recolectar directamente desde la memoria de los adultos aquellos pensamientos infantiles más significativos. A partir de esta colección de relatos compartidos, se seleccionaron los hitos conceptuales que posteriormente se tradujeron en las ilustraciones del proyecto, asegurando un vínculo auténtico y directo entre las historias y el espectador.",
           "sectionTitle": "Intro"
         },
@@ -597,7 +597,7 @@ const DATOS_GLOBALES = {
         },
                 {
           "layout": "text-left",
-          "src":  "barbara-oficina.jpg",
+          "src":  "barbara-oficina.webp",
           "text": "Para construir el universo narrativo de Peque, el desarrollo del proyecto contempló un levantamiento de información mediante encuestas cualitativas. El objetivo fue recolectar directamente desde la memoria de los adultos aquellos pensamientos infantiles más significativos. A partir de esta colección de relatos compartidos, se seleccionaron los hitos conceptuales que posteriormente se tradujeron en las ilustraciones del proyecto, asegurando un vínculo auténtico y directo entre las historias y el espectador.",
           "sectionTitle": "Intro"
         },
@@ -605,11 +605,11 @@ const DATOS_GLOBALES = {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "barbara-perfil.jpg",
+              "src": "barbara-perfil.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "barbarag-perfil.jpg",
+              "src": "barbarag-perfil.webp",
               "text": "Caption del primer slider."
             },
           ]
@@ -664,7 +664,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "text-left",
-      "src": "behealthy-claro.jpg",
+      "src": "behealthy-claro.webp",
       "text": "Nos alejamos de la estructura tradicional de e-commerce frío para construir un Lookbook de revista rico en imágenes y detalles visuales. El diseño pone el foco en el bienestar como estilo de vida, recordando al usuario que la elegancia en los momentos de descanso es un acto esencial de autocuidado y de sentirse bonita en casa.",
       "sectionTitle": "Identidad Visual",
     },
@@ -675,7 +675,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "full",
-      "src": "behealthy-paleta.jpg",
+      "src": "behealthy-paleta.webp",
       "sectionTitle": "Identidad Visual",
     },
     {
@@ -686,7 +686,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "full",
-      "src": "behealthy-gotero-sombras.jpg",
+      "src": "behealthy-gotero-sombras.webp",
     },
     {
       "layout": "text-left",
@@ -748,20 +748,20 @@ const DATOS_GLOBALES = {
       "desafio": "Crear una propuesta de Halloween femenina y lúdica.",
       "solucion": "Patrones vectoriales escalables con estética de autor.",
       "cita": "Diseño comercial con distinción máxima.",
-      "imagen": "print-flores.jpg",
+      "imagen": "print-flores.webp",
       "galeria": [
         {
           "layout": "auto-gallery",
           "sectionTitle": "REGISTRO & DATA",
           "items": [
-            { "src": "print-flores.jpg", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.jpg", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
-            { "src": "print-flores.jpg", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.jpg", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
-            { "src": "print-flores.jpg", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.jpg", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
-            { "src": "print-flores.jpg", "caption": "01 — MUESTREO EN TERRENO" },
-            { "src": "print-campo.jpg", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
+            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
+            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
+            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
+            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
+            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
+            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
+            { "src": "print-flores.webp", "caption": "01 — MUESTREO EN TERRENO" },
+            { "src": "print-campo.webp", "caption": "02 — METODOLOGÍA CO-CREATIVA" },
           ]
           },
           {
@@ -776,13 +776,13 @@ const DATOS_GLOBALES = {
         {
           "layout": "long-scroll",
           "sectionTitle": "MAQUETACIÓN COMPLETA",
-          "src": "print-flores.jpg",
+          "src": "print-flores.webp",
           "caption": "EXPLORACIÓN DE INTERFAZ EXTENSA"
         },
         {
           "layout": "long-scroll",
           "sectionTitle": "MAQUETACIÓN COMPLETA",
-          "src": "print-campo.jpg",
+          "src": "print-campo.webp",
           "caption": "EXPLORACIÓN DE INTERFAZ EXTENSA"
         },
       ],
@@ -801,15 +801,15 @@ const DATOS_GLOBALES = {
       "desafio": "A través de las vivencias y la mirada de Peque, una niña chilena de 5 años, este proyecto editorial e ilustrado rescata y pone en valor el imaginario colectivo de la infancia: aquellas teorías mágicas y entrañables —como creer que las vacas café dan leche con chocolate o que la luna nos persigue en el auto— que todos compartimos al crecer. Nacido en el contexto de la Escuela de Diseño UC, dentro del ramo Ilustración Creativa, el fanzine y su extensión digital funcionan como un puente de memoria y empatía para el público adulto, invitándolo a reconectar con su propio niño interior.",
       "solucion": "Desarrollo de un sistema híbrido (análogo y digital) con estética de risografía, trazos manuscritos y una paleta de alto contraste que transita con naturalidad entre la ternura y la crítica social.",
       "cita": "La imaginación infantil como espacio de memoria y vocación política.",
-      "imagen": "peque.jpg",
+      "imagen": "peque.webp",
       "galeria": [
         {
           "layout": "full",
-          "src": "peque.jpg"
+          "src": "peque.webp"
         },
         {
           "layout": "text-left",
-          "src":  "peque-zine.jpg",
+          "src":  "peque-zine.webp",
           "text": "Para construir el universo narrativo de Peque, el desarrollo del proyecto contempló un levantamiento de información mediante encuestas cualitativas. El objetivo fue recolectar directamente desde la memoria de los adultos aquellos pensamientos infantiles más significativos. A partir de esta colección de relatos compartidos, se seleccionaron los hitos conceptuales que posteriormente se tradujeron en las ilustraciones del proyecto, asegurando un vínculo auténtico y directo entre las historias y el espectador.",
           "sectionTitle": "Intro"
         },
@@ -817,19 +817,19 @@ const DATOS_GLOBALES = {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "peque-secretos.jpg",
+              "src": "peque-secretos.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "peque-luna.jpg",
+              "src": "peque-luna.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "peque-auto.jpg",
+              "src": "peque-auto.webp",
               "text": "Caption del segundo slider."
             },
             {
-              "src": "peque-mon.jpg",
+              "src": "peque-mon.webp",
               "text": "Caption del segundo slider."
             },
           ]
@@ -854,7 +854,7 @@ const DATOS_GLOBALES = {
       "items": ["Estrategia & Territorio de Marca", "Sistemas de Identidad Visual", "Brandbooks & Guías de Estilo", "Dirección de Arte"],
       "icono": "ph-pencil-circle", 
       "herramientas": ["Illustrator", "Photoshop", "Figma", "InDesign", "Pantone"],
-      "img": "branding-hover.jpg",
+      "img": "branding-hover.webp",
       "filtro": "branding" 
     },
     { 
@@ -864,7 +864,7 @@ const DATOS_GLOBALES = {
       "items": ["Diseño UI/UX", "Desarrollo E-commerce (Shopify)", "Landing Pages", "Optimización SEO"],
       "icono": "ph-desktop", 
       "herramientas": ["HTML5/CSS3", "Liquid", "Figma", "Shopify", "Klaviyo"],
-      "img": "web-hover.jpg",
+      "img": "web-hover.webp",
       "filtro": "web" 
     },
     { 
@@ -874,7 +874,7 @@ const DATOS_GLOBALES = {
       "items": ["Packaging (Estructural & Gráfico)", "Diseño Editorial", "Papelería Corporativa"],
       "icono": "ph-package", 
       "herramientas": ["InDesign", "Illustrator", "Dielines", "Pantone"],
-      "img": "graphic-hover.jpg",
+      "img": "graphic-hover.webp",
       "filtro": "packaging" 
     }
   ]
