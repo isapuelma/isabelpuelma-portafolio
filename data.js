@@ -323,57 +323,185 @@ const DATOS_GLOBALES = {
       ]
     },
     {
-      "id": "alma",
-      "titulo": "Fundación Alma Chile",
-      "cliente": "Fundación Alma Chile",
-      "year": "2025",
-      "servicios": ["Identidad Visual", "Ecosistema Social Media", "Diseño Operativo & Eventos", "Merchandising & Recaudación"],
-      "herramientas": ["Illustrator", "Procreate", "Canva Pro"],
-      "descripcion": "Fundación Alma rescata, rehabilita y promueve la adopción de perritos abandonados. El proyecto sistematizó toda su identidad en tres pilares: sistema gráfico unificado, ecosistema digital en redes y despliegue operativo para eventos y recaudación.",
-      "imagen": "alma-polera.webp",
-      "categoria": "Branding",
-      "filtro": ["branding"],
-      "claseTamano": "item-wide",
-      "galeria": [
-        {
-          "layout": "full",
-          "src": "alma-polera.webp",
-          "caption": "Indumentaria oficial para voluntarios."
-        },
-        {
-          "layout": "text-left",
-          "sectionTitle": "Intro",
-          "src": "alma-refugio.webp",
-          "text": "Elevar la percepción de la marca para asegurar nuevas alianzas estratégicas."
-        },
-        {
+  "id": "alma",
+  "titulo": "Fundación Alma Chile",
+  "cliente": "Fundación Alma Chile",
+  "year": "2025",
+  "servicios": ["Identidad Visual", "Ecosistema Social Media", "Diseño Operativo & Eventos", "Merchandising & Recaudación"],
+  "herramientas": ["Illustrator", "Procreate", "Canva Pro"],
+  "descripcion": "Fundación Alma rescata, rehabilita y promueve la adopción de perritos abandonados, necesitando constantes donaciones para operar. Tras identificar una comunicación desarticulada, el proyecto sistematizó toda su identidad en tres pilares: un sistema gráfico unificado, un ecosistema digital por objetivos en redes sociales, y un despliegue operativo dividido entre herramientas de uso cotidiano para eventos y merchandising para la recaudación de fondos.",
+  "imagen": "alma-polera.jpg",
+  "categoria": "Branding",
+  "filtro": ["branding"],
+  "claseTamano": "item-wide",
+  "galeria": [
+    /* =========================================================================
+       PILAR 1: IDENTIDAD VISUAL & SISTEMA BASE
+       ========================================================================= */
+    {
+      "layout": "full",
+      "src": "alma-polera.jpg",
+      "caption": "Aplicación de marca en indumentaria oficial para voluntarios y coordinadores de la fundación."
+    },
+    {
+      "layout": "text-left",
+      "sectionTitle": "Intro",
+      "src": "alma-refugio.jpg",
+      "text": "El activo más valioso de una fundación sin fines de lucro es la confianza. Fundación Alma contaba con una vocación increíble, pero su identidad visual fragmentada y la falta de cohesión en sus comunicaciones restaban credibilidad a su labor. El desafío principal no era solo hacer un logo nuevo, sino elevar la percepción de la marca para transmitir la seriedad y el profesionalismo necesarios para asegurar nuevas alianzas estratégicas y fidelizar a sus donantes.",
+    },
+    {
           "layout": "editorial-slider",
           "pages": [
-            { "src": "alma-perrito-4.webp", "text": "Rescatados en rehabilitación." },
-            { "src": "alma-perrito-2.webp", "text": "Jornada de adopción." },
-            { "src": "alma-perrito-3.webp", "text": "Comunidad de apoyo." }
+            {
+              "src": "alma-perrito-4.jpg",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "alma-perrito-2.jpg",
+              "text": "Caption del primer slider."
+            },
+            {
+              "src": "alma-perrito-3.jpg",
+              "text": "Caption del segundo slider."
+            },
           ]
+    },
+    {
+      "layout": "text-left",
+      "src": "alma-diseños.mp4",
+      "sectionTitle": "Problema",
+      "text": "El punto de partida consistió en tomar la base y la esencia del logo original, sometiéndolo a una reingeniería para resolver problemas de legibilidad y escalabilidad. Se creó un sistema de 3 variantes (Principal, Alternativo e Icono) y se expandió el universo visual para otorgar versatilidad a la fundación."
+    },
+        {
+      "layout": "narrative-center",
+      "sectionTitle": "Identidad Visual",
+      "text": "El punto de partida consistió en tomar la base y la esencia del logo original, sometiéndolo a una reingeniería para resolver problemas de legibilidad y escalabilidad. Se creó un sistema de 3 variantes (Principal, Alternativo e Icono) y se expandió el universo visual para otorgar versatilidad a la fundación."
+    },
+    {
+      "layout": "comparison",
+      "before": "alma-antiguo.jpg",
+      "after": "alma-logo.jpg",
+      "labelBefore": "LOGOTIPO ANTERIOR",
+      "labelAfter": "REDISEÑO ISABEL PUELMA",
+      "captionText": "/// REDISEÑO DE IMAGOTIPO: Optimización de proporciones, limpieza de trazos y creación de la versión Principal (con huesos corporativos), Alternativa e Icono aislado para redes.",
+      "sectionTitle": "Sistematización de Imagotipo"
+    },
+    {
+      "layout": "full",
+      "src": "alma-colores.jpg",
+    },
+
+    /* =========================================================================
+       PILAR 2: ECOSISTEMA DIGITAL & REDES SOCIALES
+       ========================================================================= */
+    {
+      "layout": "narrative-center",
+      "sectionTitle": "Redes Sociales",
+      "subtitle": "PILAR 02 /// ECOSISTEMA DIGITAL EN CANVA",
+      "text": "Para evitar publicaciones improvisadas, las plantillas de Instagram se dividieron estratégicamente según su objetivo de comunicación: educar e informar sobre la fundación, potenciar las adopciones activas y blindar la transparencia en las donaciones."
+    },
+    {
+      "layout": "editorial-slider",
+      "title": "Plantillas de Instagram por Objetivo Comunicacional",
+      "items": [
+        {
+          "src": "alma-rrss.jpg",
+          "caption": "Historias Educativas e Informativas (1080x1920px): Afiches clave para explicar '¿Cómo colaborar?', 'Donaciones necesarias' y 'Coordenadas de visitas'."
         },
         {
-          "layout": "comparison",
-          "before": "alma-antiguo.webp",
-          "after": "alma-logo.webp",
-          "labelBefore": "LOGOTIPO ANTERIOR",
-          "labelAfter": "REDISEÑO ISABEL PUELMA",
-          "captionText": "/// OPTIMIZACIÓN DE PROPORCIONES E ICONOGRAFÍA",
-          "sectionTitle": "Sistematización"
+          "src": "alma-perrito-semana.jpg",
+          "caption": "Potenciador de Adopciones: Plantillas 'Perrito de la Semana' (Gastón, Pachi, Kuki) diseñadas para destacar la historia de cada rescatado y agilizar su adopción."
         },
         {
-          "layout": "full",
-          "src": "alma-colores.webp"
+          "src": "alma-posts.jpg",
+          "caption": "Feed Educativo y Comunitario (1080x1080px): Formatos para 'Tips de verano', 'Cuidado responsable' y comunicados de la comunidad."
         },
         {
-          "layout": "full",
-          "src": "alma-pendon-rescate.webp",
-          "sectionTitle": "Eventos"
+          "src": "alma-transferencia.jpg",
+          "caption": "Transparencia Financiera: Gráfica estandarizada para Datos de Transferencia Bancaria, proyectando seguridad visual en cada solicitud de aporte."
         }
       ]
     },
+
+    /* =========================================================================
+       PILAR 3: APLICACIÓN DE MARCA EN CONTEXTO
+       ========================================================================= */
+    {
+      "layout": "narrative-center",
+      "subtitle": "PILAR 03 /// APLICACIÓN DE MARCA EN CONTEXTO",
+      "sectionTitle": "Eventos",
+      "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos."
+    },
+
+    /* --- SUB-BLOQUE A: USO COTIDIANO Y OPERATIVO EN EVENTOS --- */
+    {
+          "layout": "text-left",
+          "sectionTitle": "Eventos",
+          "src": "alma-templon.jpg",
+          "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos.",
+    },
+    {
+      "layout": "editorial-slider",
+      "items": [
+        {
+          "src": "alma-credenciales.jpg",
+          "caption": "Identificación en Terreno: Credenciales con código QR (54x85.6mm) para distinguir rápidamente al equipo de voluntarios durante las jornadas."
+        },
+        {
+          "src": "alma-templon.jpg",
+          "caption": "Pendón '¡Ayúdanos!' (Legibilidad a Distancia): Diseñado para impacto visual lejano en eventos masivos con llamados a la acción claros."
+        },
+        {
+          "src": "alma-pendon-rescate.jpg",
+          "caption": "Pendón 'Adopción y Rescate': Formato informativo de soporte para detallar la labor de la fundación y sus vías de contacto."
+        },
+        {
+          "src": "alma-pendon-salvemos.jpg",
+          "caption": "Pendón Gigante 'Salvemos Juntos' (60x120cm): Estructura principal de fondo para convocatorias e inscripciones de socios."
+        },
+        {
+          "src": "alma-afiches.jpg",
+          "caption": "Afiche de Jornadas de Adopción: Plantilla diferenciada para que en Instagram el usuario reconozca de inmediato un evento presencial."
+        },
+        {
+          "src": "alma-certificado.jpg",
+          "caption": "Certificado Oficial de Adopción (A4): Documento con estética de la marca que formaliza el compromiso del tutor al adoptar un perrito."
+        },
+        {
+          "src": "alma-tajetas.jpg",
+          "caption": "Papelería e Impresión: Tarjetas corporativas con plantilla A4 de impresión masiva a doble cara (10 unidades por hoja)."
+        }
+      ]
+    },
+
+    /* --- SUB-BLOQUE B: MERCHANDISING & RECAUDACIÓN DE FONDOS --- */
+      {
+          "layout": "text-left",
+          "sectionTitle": "Merchandising",
+          "src": "alma-tazas-2.jpg",
+          "text": "Merchandising de Recaudación (Ilustración Aplicada): El sistema se expandió a productos físicos. Se desarrollaron ilustraciones específicas para tazas y stickers promocionales, creando una nueva línea de ingresos directos para financiar las operaciones de la fundación.",
+        },
+         
+
+    /* =========================================================================
+       CIERRE: AUTONOMÍA OPERATIVA
+       ========================================================================= */
+    {
+      "layout": "narrative-center",
+      "subtitle": "SOBERANÍA Y AUTONOMÍA EN CANVA PRO",
+      "text": "Cada uno de estos entregables fue transferido con enlaces editables parametrizados en Canva. Esto le otorga a los voluntarios de Fundación Alma la libertad total de crear y comunicar diariamente manteniendo la consistencia de marca, sin gastar dinero extra ni depender de un diseñador."
+    },
+    {
+          "layout": "impact-grid",
+          "sectionTitle": "iMPACTO",
+          "items": [
+            { "value": "200", prefix: "+", label: "ASISTENTES AL EVENTO MUT" },
+            { "prefix": "10", suffix: "%", label: "ECOSISTEMA DIGITAL (WEB & RRSS)" },
+            { "value": "1", suffix: "K+", label: "ALCANCE DIGITAL EN RRSS" }
+          ]
+        }
+  ]
+},
     {
       "id": "puelma",
       "titulo": "BARBARAPUELMA&CIA",
