@@ -508,9 +508,6 @@ const DATOS_GLOBALES = {
       "servicios": ["Ilustración", "Diseño Editorial"],
       "herramientas": ["Procreate", "InDesign"],
       "descripcion": "Fanzine ilustrado que rescata el imaginario infantil y las teorías mágicas de la infancia a través de los ojos de Peque.",
-      "desafio": "Conectar emocionalmente con la memoria adulta a través de relatos entrañables.",
-      "solucion": "Sistema editorial híbrido con estética de risografía.",
-      "cita": "La imaginación infantil como espacio de memoria.",
       "imagen": "peque.webp",
       "galeria": [
         {
@@ -525,11 +522,40 @@ const DATOS_GLOBALES = {
             { "src": "peque-auto.webp", "text": "Historias en el asiento trasero." }
           ]
         }
+        {
+          "layout": "full",
+          "src": "peque.gif"
+        },
       ],
       "categoria": "Ilustracion",
       "filtro": ["ilustración"],
       "claseTamano": "item-wide"
-    }
+    },
+    {
+      "id": "prints",
+      "titulo": "Prints",
+      "cliente": "Papelaria",
+      "year": "2023",
+      "servicios": ["Ilustración"],
+      "herramientas": ["Procreate"],
+      "descripcion": "Proyecto para el OPR de Ilustración Creativa. El Desafío era subvertir el cliché de la festividad de Halloween, alejándose de los códigos visuales tradicionales (las brujas, el terror clásico y las paletas oscuras) para proponer un giro autoral. El objetivo era traducir la experiencia lúdica de esta fecha —el juego, la recolección de dulces y la estética infantil— hacia un estilo ilustrativo propio y fresco, creando un ecosistema visual que evocara diversión y ternura en lugar de miedo.",
+      "imagen": "print-flores.jpg",
+      "galeria": [
+        {
+          "layout": "long-scroll",
+          "sectionTitle": "MAQUETACIÓN COMPLETA",
+          "src": "print-flores.jpg",
+        },
+        {
+          "layout": "long-scroll",
+          "sectionTitle": "MAQUETACIÓN COMPLETA",
+          "src": "print-campo.jpg",
+        },
+      ],
+      "categoria": "Ilustración",
+      "filtro": ["ilustración"],
+      "claseTamano": "item-wide"
+    },
   ],
   "servicios": [
     { 
