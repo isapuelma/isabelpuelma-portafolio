@@ -516,11 +516,11 @@ const DATOS_GLOBALES = {
       "servicios": ["Ilustración"],
       "herramientas": ["Procreate"],
       "descripcion": "Proyecto para el OPR de Ilustración Creativa. El Desafío era subvertir el cliché de la festividad de Halloween, alejándose de los códigos visuales tradicionales (las brujas, el terror clásico y las paletas oscuras) para proponer un giro autoral. El objetivo era traducir la experiencia lúdica de esta fecha —el juego, la recolección de dulces y la estética infantil— hacia un estilo ilustrativo propio y fresco, creando un ecosistema visual que evocara diversión y ternura en lugar de miedo.",
-      "imagen": "print-flores.jpg",
+      "imagen": "print-flores.webp",
       "galeria": [
         {
           "layout": "long-scroll",
-          "src": "print-flores.web"
+          "src": "print-flores.webp"
         },
         {
           "layout": "long-scroll",
