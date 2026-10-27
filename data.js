@@ -62,7 +62,7 @@ const DATOS_GLOBALES = {
           "sectionTitle": "Diseño Web"
         },
         {
-          "src": "codu-video-poleras.mp4",
+          "src": "codu-video-poleras.webm",
           "layout": "full"
         },
         {
@@ -208,7 +208,7 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-mascara-colgante.mp4",
+              "src": "dolemos-mascara-colgante.webm",
               "text": "Caption del primer slider."
             },
             {
@@ -220,7 +220,7 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-mascara.mp4",
+              "src": "dolemos-mascara.webm",
               "text": "Caption del primer slider."
             },
             {
@@ -228,7 +228,7 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-cartas.mp4",
+              "src": "dolemos-cartas.webm",
               "text": "Caption del primer slider."
             },
             {
@@ -236,7 +236,7 @@ const DATOS_GLOBALES = {
               "text": "Caption del primer slider."
             },
             {
-              "src": "dolemos-tejido.mp4",
+              "src": "dolemos-tejido.webm",
               "text": "Caption del primer slider."
             },
             {
