@@ -119,7 +119,7 @@ const DATOS_GLOBALES = {
       "servicios": ["Investigación-Creación", "Branding", "Diseño Museográfico", "Dirección de Arte"],
       "herramientas": ["Adobe Suite", "Frigma", "Fotografía"],
       "descripcion": "Dolemos: Laboratorio de Diseño Crítico (DSI) enfocado en la visibilización del dolor invisible. Un proyecto de investigación-acción que integró identidad visual, museografía inmersiva y gestión de contenidos interdisciplinarios para generar justicia narrativa.",
-      "imagen": "dolemos-posts-2.png",
+      "imagen": "dolemos-posts-2.webp",
       "galeria": [
         {
           "layout": "full",
@@ -186,16 +186,16 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos-instagram.png",
+          "src": "dolemos-instagram.webp",
           "text": "El proyecto vivió en @proyecto.dolemos, donde se ejecutó una estrategia de contenido basada en el misterio y la revelación. Publicaciones con preguntas directas en rojo y retratos que fusionaban la cara de la paciente con su obra (sin editar) crearon una narrativa de vistazo previo. Esta comunicación orgánica no solo llenó la sala, sino que logró una comunidad activa antes de la inauguración.",
           "layout": "text-right"
         },
         {
-          "src": "dolemos-posts-2.png",
+          "src": "dolemos-posts-2.webp",
           "layout": "full"
         },
         {
-          "src": "dolemos-postal-2.png",
+          "src": "dolemos-postal-2.webp",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right"
         },
@@ -329,7 +329,7 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "full",
-          "src": "broderie-etiqueta-tela-2.webp"
+          "src": "broderie-etiqueta-tela.webp"
         },
         {
           "layout": "full",
