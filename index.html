@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Title Optimizado para Indexación -->
+    <title>Isabel Puelma | Diseño Estratégico — Branding, Web & E-Commerce</title>
+
+    <!-- SEO Canónico y Metadatos -->
+    <meta name="description" content="Estudio de diseño integral liderado por Isabel Puelma en Santiago de Chile. Especializada en branding corporativo, diseño web, e-commerce y empaques.">
+    <meta name="keywords" content="Isabel Puelma, Diseñadora Integral, Branding, Diseño Web, E-Commerce, Empaques, Packaging, Santiago Chile, UI UX Design">
+    <meta name="author" content="Isabel Puelma">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://isabelpuelma.cl/">
+
+    <!-- Favicon -->
+    <link rel="icon" href="isa.svg" type="image/svg+xml">
+
+    <!-- Open Graph / LinkedIn / WhatsApp -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://isabelpuelma.cl/">
+    <meta property="og:title" content="Isabel Puelma | Diseño Estratégico — Branding & Web">
+    <meta property="og:description" content="Especialista en elevación de marcas mediante identidad visual, diseño e-commerce y empaques. Explora proyectos seleccionados.">
+    <meta property="og:image" content="https://isabelpuelma.cl/assets/og-cover.jpg">
+    <meta property="og:locale" content="es_CL">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Isabel Puelma | Diseño Estratégico">
+    <meta name="twitter:description" content="Diseño visual estratégico, branding y plataformas digitales e-commerce.">
+    <meta name="twitter:image" content="https://isabelpuelma.cl/assets/og-cover.jpg">
+
+    <!-- Modelos 3D -->
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
+
+    <!-- Fuentes & Iconos (Con Preconnect para acelerar la carga) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/@phosphor-icons/web" defer></script>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Datos Estructurados JSON-LD (Schema.org) para Google -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Isabel Puelma Studio",
+      "url": "https://isabelpuelma.cl",
+      "logo": "https://isabelpuelma.cl/isabelpuelma.svg",
+      "image": "https://isabelpuelma.cl/assets/og-cover.jpg",
+      "description": "Estudio de diseño estratégico especializado en branding corporativo, e-commerce, sitios web y estrategia visual.",
+      "founder": {
+        "@type": "Person",
+        "name": "Isabel Puelma",
+        "jobTitle": "Diseñadora Integral",
+        "alumniOf": "Pontificia Universidad Católica de Chile"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Santiago",
+        "addressCountry": "CL"
+      },
+      "sameAs": [
+        "https://www.instagram.com/isa_puelma/",
+        "https://www.linkedin.com/in/isabel-puelma/"
+      ]
+    }
+    </script>
+    <header class="header" role="banner">
+        <a href="index.html" class="brand-name" aria-label="Inicio Isabel Puelma Studio">
+            <img src="isabelpuelma.svg" alt="Logo Isabel Puelma - Diseñadora Estratégica">
+        </a>
+        
+        <nav class="nav-menu" aria-label="Navegación principal">
+            <a href="gallery.html" class="nav-link">Proyectos</a>
+            <a href="about.html" class="nav-link">Sobre Mí</a>
+            
+            <!-- El botón va AQUÍ adentro del nav para mantener la separación limpia -->
+            <button id="lang-toggle-btn" class="lang-btn text-mono" type="button" onclick="toggleLanguage()">
+                <span class="lang-option active" data-lang="es">ES</span>
+                <span class="lang-divider">/</span>
+                <span class="lang-option" data-lang="en">EN</span>
+            </button>
+        </nav>
+
+        <button class="hamburger" id="hamburgerBtn" aria-label="Abrir menú de navegación" aria-expanded="false" aria-controls="mobileNav">
+            <span></span><span></span><span></span>
+        </button>
+    </header>
+
+    <!-- Navegación Móvil -->
+    <nav class="mobile-nav-overlay" id="mobileNav" aria-label="Navegación móvil">
+        <a href="index.html" class="mobile-link text-h2">Inicio</a>
+        <a href="gallery.html" class="mobile-link text-h2">Proyectos</a>
+        <a href="about.html" class="mobile-link text-h2">Sobre Mí</a>
+    </nav>
+
+    <main id="main-content">
+        <!-- SECCIÓN HERO PANTALLA COMPLETA -->
+        <section class="hero-cinema" aria-label="Presentación principal">
+            <div class="hero-video-wrap">
+                <video autoplay muted loop playsinline poster="hero-poster.jpg" aria-hidden="true">
+                    <source src="gradient.mp4" type="video/mp4">
+                    Tu navegador no soporta video.
+                </video>
+
+                <!-- Overlay de texto centrado -->
+                <div class="hero-overlay-content">
+                    <!-- HERO TITLE DINÁMICO -->
+                    <!-- HERO TITLE DINÁMICO ENCADENADO -->
+                    <h1 class="hero-typewriter-title text-display">
+                        <span id="typewriter-text">isabel puelma</span><span class="typewriter-cursor">|</span>
+                    </h1>
+                </div>
+
+                <!-- Barra inferior contenida DENTRO del video -->
+                <div class="hero-bottom-info">
+                    <!-- Bloque 1: Máximo 2 líneas -->
+                    <p class="text-mono">
+                        ISABEL PUELMA STUDIO<br>
+                        ESTRATEGIA & DISEÑO VISUAL
+                    </p>
+
+                    <!-- Bloque 2: Máximo 2 líneas -->
+                    <p class="text-mono">
+                        SANTIAGO, CHILE<br>
+                        DESLIZA PARA EXPLORAR ↓
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- SECCIÓN 2: WORK GRID -->
+        <section class="home-work-section" aria-label="Proyectos Destacados">
+            <h2 class="sr-only" style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0;">Selección de Proyectos de Diseño</h2>
+            
+            <div class="bento-grid" id="home-selection">
+                <!-- Inyección dinámica mediante JS -->
+            </div>
+
+            <div class="reveal-element" style="text-align: center; padding: 10vh 0;">
+                <a href="gallery.html" class="nav-link text-mono" style="border-bottom: 1px solid var(--color-lime); padding-bottom: 5px; opacity: 1;">
+                    VER TODOS LOS PROYECTOS
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <!-- FOOTER EDITORIAL -->
+    <footer class="footer-container reveal-element" role="contentinfo">
+        <div class="footer-main">
+            <div class="footer-cta-header">
+                <p class="footer-subtext text-mono">¿Tienes un proyecto en mente?</p>
+            </div>
+
+            <div class="footer-email-wrap">
+                <a href="mailto:mipuelma@uc.cl" class="text-display footer-email-link" onclick="copyEmailOnly(event)" aria-label="Copiar correo electrónico de contacto">
+                    <span class="email-text">mipuelma@uc.cl</span>
+                </a>
+            </div>
+        </div>
+
+        <div class="footer-bottom-row">
+            <!-- Hora Local -->
+            <div class="footer-col-time text-mono">
+                <span id="santiagoTime">SANTIAGO DE CHILE — --:--</span>
+            </div>
+
+            <!-- Redes Sociales -->
+            <div class="footer-social-links">
+                <a href="https://www.instagram.com/isa_puelma/" target="_blank" rel="noopener" class="text-mono">INSTAGRAM ↗</a>
+                <a href="https://www.behance.net/isabelpuelma" target="_blank" rel="noopener" class="text-mono">BEHANCE↗</a>
+                <a href="https://www.linkedin.com/in/isabel-puelma/" target="_blank" rel="noopener" class="text-mono">LINKEDIN ↗</a>
+            </div>
+
+            <!-- Copyright -->
+            <div class="footer-copyright-wrap">
+                <span class="text-mono copyright-text">© 2026 ISABEL PUELMA STUDIO</span>
+            </div>
+        </div>
+    </footer>
+
+    <!-- NOTIFICACIÓN EMERGENTE (TOAST) -->
+    <div id="toast-notification" class="toast-notification text-mono" aria-hidden="true" role="status">
+        <i class="ph ph-check-circle" style="color: #22c55e; font-size: 1.1rem;"></i>
+        <span>¡Correo copiado al portapapeles!</span>
+    </div>
+
+    <!-- Scripts con carga defer para no bloquear renderizado -->
+    <script src="https://unpkg.com/lenis@1.1.5/dist/lenis.min.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="data.js"></script>
+    <script src="portafolio.js"></script>
+</body>
+</html>
