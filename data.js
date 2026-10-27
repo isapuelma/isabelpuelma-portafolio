@@ -132,15 +132,6 @@ const DATOS_GLOBALES = {
           "layout": "text-right"
         },
         {
-          "layout": "audio-overlay",
-          "src": "dolemos-retrato-1.webp",
-          "audioSrc": "dolemos-jocelyn-audiocarta.mp3",
-          "speaker": "Jocelyn M.",
-          "role": "Paciente / Taller DSI",
-          "title": "Audio Carta: Sobre el dolor y la justicia narrativa",
-          "sectionTitle": "Testimonio Sonoro"
-        },
-        {
           "src": "dolemos-sliueta.webp",
           "layout": "full"
         },
@@ -543,13 +534,11 @@ const DATOS_GLOBALES = {
       "galeria": [
         {
           "layout": "long-scroll",
-          "sectionTitle": "MAQUETACIÓN COMPLETA",
-          "src": "print-flores.jpg"
+          "src": "print-flores.web"
         },
         {
           "layout": "long-scroll",
-          "sectionTitle": "MAQUETACIÓN COMPLETA",
-          "src": "print-campo.jpg"
+          "src": "print-campo.webp"
         }
       ],
       "categoria": "Ilustración",
