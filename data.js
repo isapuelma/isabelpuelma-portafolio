@@ -426,10 +426,7 @@ const DATOS_GLOBALES = {
       "year": "2024",
       "servicios": ["Pattern Design", "Ilustración"],
       "herramientas": ["Procreate", "Illustrator"],
-      "descripcion": "Proyecto de ilustración para subvertir el cliché terrorífico de Halloween mediante una propuesta lúdica, fresca y colorida.",
-      "desafio": "Crear un universo visual tierno y comercial para papelería y empaques festivos.",
-      "solucion": "Patrones vectoriales escalables con paleta vibrante.",
-      "cita": "La ternura como motor del diseño comercial.",
+      "descripcion": "Proyecto para el OPR de Ilustración Creativa. El Desafío era subvertir el cliché de la festividad de Halloween, alejándose de los códigos visuales tradicionales (las brujas, el terror clásico y las paletas oscuras) para proponer un giro autoral. Mi propuesta era traducir la experiencia lúdica de esta fecha -el juego, la recolección de dulces y la estética infantil- hacia un estilo ilustrativo propio y fresco, creando un ecosistema visual que evocara diversión y ternura en lugar de miedo.",
       "imagen": "hallo.webp",
       "galeria": [
         {
