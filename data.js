@@ -391,43 +391,26 @@ const DATOS_GLOBALES = {
       "src": "alma-colores.webp",
     },
 
-    /* =========================================================================
-       PILAR 2: ECOSISTEMA DIGITAL & REDES SOCIALES
-       ========================================================================= */
     {
-      "layout": "narrative-center",
+      "layout": "text-left",
       "sectionTitle": "Redes Sociales",
-      "subtitle": "PILAR 02 /// ECOSISTEMA DIGITAL EN CANVA",
+      "src": "alma-refugio.webp",
       "text": "Para evitar publicaciones improvisadas, las plantillas de Instagram se dividieron estratégicamente según su objetivo de comunicación: educar e informar sobre la fundación, potenciar las adopciones activas y blindar la transparencia en las donaciones."
     },
     {
-      "layout": "editorial-slider",
-      "title": "Plantillas de Instagram por Objetivo Comunicacional",
-      "items": [
-        {
-          "src": "alma-rrss.webp",
-          "caption": "Historias Educativas e Informativas (1080x1920px): Afiches clave para explicar '¿Cómo colaborar?', 'Donaciones necesarias' y 'Coordenadas de visitas'."
-        },
-        {
-          "src": "alma-perrito-semana.webp",
-          "caption": "Potenciador de Adopciones: Plantillas 'Perrito de la Semana' (Gastón, Pachi, Kuki) diseñadas para destacar la historia de cada rescatado y agilizar su adopción."
-        },
-        {
-          "src": "alma-posts.webp",
-          "caption": "Feed Educativo y Comunitario (1080x1080px): Formatos para 'Tips de verano', 'Cuidado responsable' y comunicados de la comunidad."
-        },
-        {
-          "src": "alma-transferencia.webp",
-          "caption": "Transparencia Financiera: Gráfica estandarizada para Datos de Transferencia Bancaria, proyectando seguridad visual en cada solicitud de aporte."
-        }
-      ]
+      "layout": "full",
+      "src": "alma-rrss.webp",
     },
-
-    /* =========================================================================
-       PILAR 3: APLICACIÓN DE MARCA EN CONTEXTO
-       ========================================================================= */
     {
-      "layout": "narrative-center",
+      "layout": "full",
+      "src": "alma-perrito-semana.webp",
+    },
+    {
+      "layout": "full",
+      "src": "alma-posts.webp",
+    },
+    {
+      "layout": "text-left",
       "sectionTitle": "Eventos",
       "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos."
     },
