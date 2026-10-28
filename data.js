@@ -428,64 +428,35 @@ const DATOS_GLOBALES = {
        ========================================================================= */
     {
       "layout": "narrative-center",
-      "subtitle": "PILAR 03 /// APLICACIÓN DE MARCA EN CONTEXTO",
       "sectionTitle": "Eventos",
       "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos."
     },
-
-    /* --- SUB-BLOQUE A: USO COTIDIANO Y OPERATIVO EN EVENTOS --- */
     {
-          "layout": "text-left",
-          "sectionTitle": "Eventos",
-          "src": "alma-templon.webp",
-          "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos.",
+      "layout": "full",
+      "alma-templon.webp",
     },
     {
-      "layout": "editorial-slider",
-      "items": [
-        {
-          "src": "alma-credenciales.webp",
-          "caption": "Identificación en Terreno: Credenciales con código QR (54x85.6mm) para distinguir rápidamente al equipo de voluntarios durante las jornadas."
-        },
-        {
-          "src": "alma-templon.webp",
-          "caption": "Pendón '¡Ayúdanos!' (Legibilidad a Distancia): Diseñado para impacto visual lejano en eventos masivos con llamados a la acción claros."
-        },
-        {
-          "src": "alma-pendon-rescate.webp",
-          "caption": "Pendón 'Adopción y Rescate': Formato informativo de soporte para detallar la labor de la fundación y sus vías de contacto."
-        },
-        {
-          "src": "alma-pendon-salvemos.webp",
-          "caption": "Pendón Gigante 'Salvemos Juntos' (60x120cm): Estructura principal de fondo para convocatorias e inscripciones de socios."
-        },
-        {
-          "src": "alma-afiches.webp",
-          "caption": "Afiche de Jornadas de Adopción: Plantilla diferenciada para que en Instagram el usuario reconozca de inmediato un evento presencial."
-        },
-        {
-          "src": "alma-certificado.webp",
-          "caption": "Certificado Oficial de Adopción (A4): Documento con estética de la marca que formaliza el compromiso del tutor al adoptar un perrito."
-        },
-        {
-          "src": "alma-tajetas.webp",
-          "caption": "Papelería e Impresión: Tarjetas corporativas con plantilla A4 de impresión masiva a doble cara (10 unidades por hoja)."
-        }
-      ]
+      "layout": "full",
+      "alma-credenciales.webp",
     },
-
-    /* --- SUB-BLOQUE B: MERCHANDISING & RECAUDACIÓN DE FONDOS --- */
-      {
-          "layout": "text-left",
-          "sectionTitle": "Merchandising",
-          "src": "alma-tazas-2.webp",
-          "text": "Merchandising de Recaudación (Ilustración Aplicada): El sistema se expandió a productos físicos. Se desarrollaron ilustraciones específicas para tazas y stickers promocionales, creando una nueva línea de ingresos directos para financiar las operaciones de la fundación.",
-        },
-         
-
-    /* =========================================================================
-       CIERRE: AUTONOMÍA OPERATIVA
-       ========================================================================= */
+    {
+      "layout": "full",
+      "alma-credenciales.webp",
+    },
+    {
+      "layout": "full",
+      "src": "alma-certificado.webp",
+    },
+    {
+      "layout": "full",
+      "src": "alma-tajetas.webp",
+    },
+    {
+      "layout": "text-left",
+      "src": "alma-diseños.mp4",
+      "sectionTitle": "alma-tazas-2.webp",
+      "text": "Merchandising de Recaudación (Ilustración Aplicada): El sistema se expandió a productos físicos. Se desarrollaron ilustraciones específicas para tazas y stickers promocionales, creando una nueva línea de ingresos directos para financiar las operaciones de la fundación.",
+    },
     {
       "layout": "narrative-center",
       "subtitle": "SOBERANÍA Y AUTONOMÍA EN CANVA PRO",
