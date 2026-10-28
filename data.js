@@ -545,36 +545,6 @@ const DATOS_GLOBALES = {
       "claseTamano": "item-wide"
     },
     {
-      "id": "behealthy",
-      "titulo": "BeHealthy",
-      "cliente": "BeHealthy Chile",
-      "year": "2025",
-      "servicios": ["Dirección de Arte", "Packaging & Normativa Legal", "Diseño UI/UX (Shopify)"],
-      "herramientas": ["Illustrator", "Figma", "Shopify"],
-      "descripcion": "Dirección de arte integral y rediseño de empaques para suplementos naturales, optimizando la experiencia en Shopify.",
-      "cita": "Bienestar respaldado por diseño estratégico.",
-      "imagen": "behealthy-melena.webp",
-      "categoria": "Branding",
-      "filtro": ["branding", "packaging"],
-      "claseTamano": "item-wide",
-      "galeria": [
-        {
-          "layout": "full",
-          "src": "behealthy-fondo.gif",
-          "sectionTitle": "Intro"
-        },
-        {
-          "layout": "full",
-          "src": "behealthy-paleta.webp",
-          "sectionTitle": "Identidad Visual"
-        },
-        {
-          "layout": "full",
-          "src": "behealthy-gotero-sombras.webp"
-        }
-      ]
-    },
-    {
       "id": "halloween",
       "titulo": "Cute Halloween",
       "cliente": "Ilustración Creativa, Diseño UC",
