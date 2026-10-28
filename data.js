@@ -120,7 +120,7 @@ const DATOS_GLOBALES = {
       "galeria": [
         {
           "layout": "full",
-          "src": "dolemos.jpg",
+          "src": "dolemos.webp",
           "sectionTitle": "Inicio"
         },
         {
@@ -164,7 +164,7 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos.jpg",
+          "src": "dolemos.webp",
           "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Branding"
@@ -330,7 +330,7 @@ const DATOS_GLOBALES = {
   "servicios": ["Identidad Visual", "Ecosistema Social Media", "Diseño Operativo & Eventos", "Merchandising & Recaudación"],
   "herramientas": ["Illustrator", "Procreate", "Canva Pro"],
   "descripcion": "Fundación Alma rescata, rehabilita y promueve la adopción de perritos abandonados, necesitando constantes donaciones para operar. Tras identificar una comunicación desarticulada, el proyecto sistematizó toda su identidad en tres pilares: un sistema gráfico unificado, un ecosistema digital por objetivos en redes sociales, y un despliegue operativo dividido entre herramientas de uso cotidiano para eventos y merchandising para la recaudación de fondos.",
-  "imagen": "alma-polera.jpg",
+  "imagen": "alma-polera.webp",
   "categoria": "Branding",
   "filtro": ["branding"],
   "claseTamano": "item-wide",
@@ -340,28 +340,28 @@ const DATOS_GLOBALES = {
        ========================================================================= */
     {
       "layout": "full",
-      "src": "alma-polera.jpg",
+      "src": "alma-polera.webp",
       "caption": "Aplicación de marca en indumentaria oficial para voluntarios y coordinadores de la fundación."
     },
     {
       "layout": "text-left",
       "sectionTitle": "Intro",
-      "src": "alma-refugio.jpg",
+      "src": "alma-refugio.webp",
       "text": "El activo más valioso de una fundación sin fines de lucro es la confianza. Fundación Alma contaba con una vocación increíble, pero su identidad visual fragmentada y la falta de cohesión en sus comunicaciones restaban credibilidad a su labor. El desafío principal no era solo hacer un logo nuevo, sino elevar la percepción de la marca para transmitir la seriedad y el profesionalismo necesarios para asegurar nuevas alianzas estratégicas y fidelizar a sus donantes.",
     },
     {
           "layout": "editorial-slider",
           "pages": [
             {
-              "src": "alma-perrito-4.jpg",
+              "src": "alma-perrito-4.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "alma-perrito-2.jpg",
+              "src": "alma-perrito-2.webp",
               "text": "Caption del primer slider."
             },
             {
-              "src": "alma-perrito-3.jpg",
+              "src": "alma-perrito-3.webp",
               "text": "Caption del segundo slider."
             },
           ]
@@ -379,8 +379,8 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "comparison",
-      "before": "alma-antiguo.jpg",
-      "after": "alma-logo.jpg",
+      "before": "alma-antiguo.webp",
+      "after": "alma-logo.webp",
       "labelBefore": "LOGOTIPO ANTERIOR",
       "labelAfter": "REDISEÑO ISABEL PUELMA",
       "captionText": "/// REDISEÑO DE IMAGOTIPO: Optimización de proporciones, limpieza de trazos y creación de la versión Principal (con huesos corporativos), Alternativa e Icono aislado para redes.",
@@ -388,7 +388,7 @@ const DATOS_GLOBALES = {
     },
     {
       "layout": "full",
-      "src": "alma-colores.jpg",
+      "src": "alma-colores.webp",
     },
 
     /* =========================================================================
@@ -405,19 +405,19 @@ const DATOS_GLOBALES = {
       "title": "Plantillas de Instagram por Objetivo Comunicacional",
       "items": [
         {
-          "src": "alma-rrss.jpg",
+          "src": "alma-rrss.webp",
           "caption": "Historias Educativas e Informativas (1080x1920px): Afiches clave para explicar '¿Cómo colaborar?', 'Donaciones necesarias' y 'Coordenadas de visitas'."
         },
         {
-          "src": "alma-perrito-semana.jpg",
+          "src": "alma-perrito-semana.webp",
           "caption": "Potenciador de Adopciones: Plantillas 'Perrito de la Semana' (Gastón, Pachi, Kuki) diseñadas para destacar la historia de cada rescatado y agilizar su adopción."
         },
         {
-          "src": "alma-posts.jpg",
+          "src": "alma-posts.webp",
           "caption": "Feed Educativo y Comunitario (1080x1080px): Formatos para 'Tips de verano', 'Cuidado responsable' y comunicados de la comunidad."
         },
         {
-          "src": "alma-transferencia.jpg",
+          "src": "alma-transferencia.webp",
           "caption": "Transparencia Financiera: Gráfica estandarizada para Datos de Transferencia Bancaria, proyectando seguridad visual en cada solicitud de aporte."
         }
       ]
@@ -437,38 +437,38 @@ const DATOS_GLOBALES = {
     {
           "layout": "text-left",
           "sectionTitle": "Eventos",
-          "src": "alma-templon.jpg",
+          "src": "alma-templon.webp",
           "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos.",
     },
     {
       "layout": "editorial-slider",
       "items": [
         {
-          "src": "alma-credenciales.jpg",
+          "src": "alma-credenciales.webp",
           "caption": "Identificación en Terreno: Credenciales con código QR (54x85.6mm) para distinguir rápidamente al equipo de voluntarios durante las jornadas."
         },
         {
-          "src": "alma-templon.jpg",
+          "src": "alma-templon.webp",
           "caption": "Pendón '¡Ayúdanos!' (Legibilidad a Distancia): Diseñado para impacto visual lejano en eventos masivos con llamados a la acción claros."
         },
         {
-          "src": "alma-pendon-rescate.jpg",
+          "src": "alma-pendon-rescate.webp",
           "caption": "Pendón 'Adopción y Rescate': Formato informativo de soporte para detallar la labor de la fundación y sus vías de contacto."
         },
         {
-          "src": "alma-pendon-salvemos.jpg",
+          "src": "alma-pendon-salvemos.webp",
           "caption": "Pendón Gigante 'Salvemos Juntos' (60x120cm): Estructura principal de fondo para convocatorias e inscripciones de socios."
         },
         {
-          "src": "alma-afiches.jpg",
+          "src": "alma-afiches.webp",
           "caption": "Afiche de Jornadas de Adopción: Plantilla diferenciada para que en Instagram el usuario reconozca de inmediato un evento presencial."
         },
         {
-          "src": "alma-certificado.jpg",
+          "src": "alma-certificado.webp",
           "caption": "Certificado Oficial de Adopción (A4): Documento con estética de la marca que formaliza el compromiso del tutor al adoptar un perrito."
         },
         {
-          "src": "alma-tajetas.jpg",
+          "src": "alma-tajetas.webp",
           "caption": "Papelería e Impresión: Tarjetas corporativas con plantilla A4 de impresión masiva a doble cara (10 unidades por hoja)."
         }
       ]
@@ -478,7 +478,7 @@ const DATOS_GLOBALES = {
       {
           "layout": "text-left",
           "sectionTitle": "Merchandising",
-          "src": "alma-tazas-2.jpg",
+          "src": "alma-tazas-2.webp",
           "text": "Merchandising de Recaudación (Ilustración Aplicada): El sistema se expandió a productos físicos. Se desarrollaron ilustraciones específicas para tazas y stickers promocionales, creando una nueva línea de ingresos directos para financiar las operaciones de la fundación.",
         },
          
