@@ -134,29 +134,17 @@ const DATOS_GLOBALES = {
         },
         {
           "src": "dolemos-taller-1.webp",
-          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
+          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso.",
           "layout": "text-right",
           "sectionTitle": "Taller"
         },
         {
           "layout": "editorial-slider",
           "pages": [
-            {
-              "src": "dolemos-taller-2.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-taller-3.webp",
-              "text": "Caption del segundo slider."
-            },
-            {
-              "src": "dolemos-taller-4.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-taller-5.webp",
-              "text": "Caption del primer slider."
-            }
+            { "src": "dolemos-taller-2.webp", "text": "Proceso de cocreación en taller." },
+            { "src": "dolemos-taller-3.webp", "text": "Exploración de materiales y texturas." },
+            { "src": "dolemos-taller-4.webp", "text": "Interacción entre pacientes y mediadores." },
+            { "src": "dolemos-taller-5.webp", "text": "Resultados visuales del laboratorio." }
           ]
         },
         {
@@ -165,7 +153,7 @@ const DATOS_GLOBALES = {
         },
         {
           "src": "dolemos.webp",
-          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
+          "text": "Desarrollo del lenguaje gráfico y conceptualización de la marca.",
           "layout": "text-right",
           "sectionTitle": "Branding"
         },
@@ -184,7 +172,7 @@ const DATOS_GLOBALES = {
         },
         {
           "src": "dolemos-postal-2.webp",
-          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
+          "text": "Piezas gráficas para interacción directa con el público.",
           "layout": "text-right"
         },
         {
@@ -193,57 +181,24 @@ const DATOS_GLOBALES = {
         },
         {
           "src": "dolemos-expo.webp",
-          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
+          "text": "Montaje de la exposición interactiva e inmersiva.",
           "layout": "text-right",
           "sectionTitle": "Expo"
         },
         {
           "layout": "editorial-slider",
           "pages": [
-            {
-              "src": "dolemos-expo-preguntas.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-mascara-colgante.webm",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-expo-CFIBRO.webp",
-              "text": "Caption del segundo slider."
-            },
-            {
-              "src": "dolemos-expo-mascara.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-mascara.webm",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-expo-foto.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-cartas.webm",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-expo-visitante.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-tejido.webm",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "dolemos-postal-rellenada.webp",
-              "layout": "full"
-            },
-            {
-              "src": "dolemos-expo-visitantes-postales.webp",
-              "layout": "full"
-            }
+            { "src": "dolemos-expo-preguntas.webp", "text": "Preguntas activadoras en sala." },
+            { "src": "dolemos-mascara-colgante.webm", "text": "Instalación de máscaras." },
+            { "src": "dolemos-expo-CFIBRO.webp", "text": "Espacio CFIBRO." },
+            { "src": "dolemos-expo-mascara.webp", "text": "Detalle de piezas expuestas." },
+            { "src": "dolemos-mascara.webm", "text": "Demostración interactiva." },
+            { "src": "dolemos-expo-foto.webp", "text": "Registro fotográfico del espacio." },
+            { "src": "dolemos-cartas.webm", "text": "Cartas testimoniales de pacientes." },
+            { "src": "dolemos-expo-visitante.webp", "text": "Público interactuando en la muestra." },
+            { "src": "dolemos-tejido.webm", "text": "Detalle de intervención textil." },
+            { "src": "dolemos-postal-rellenada.webp", "layout": "full" },
+            { "src": "dolemos-expo-visitantes-postales.webp", "layout": "full" }
           ]
         },
         {
@@ -323,139 +278,122 @@ const DATOS_GLOBALES = {
       ]
     },
     {
-  "id": "alma",
-  "titulo": "Fundación Alma Chile",
-  "cliente": "Fundación Alma Chile",
-  "year": "2025",
-  "servicios": ["Identidad Visual", "Ecosistema Social Media", "Diseño Operativo & Eventos", "Merchandising & Recaudación"],
-  "herramientas": ["Illustrator", "Procreate", "Canva Pro"],
-  "descripcion": "Fundación Alma rescata, rehabilita y promueve la adopción de perritos abandonados, necesitando constantes donaciones para operar. Tras identificar una comunicación desarticulada, el proyecto sistematizó toda su identidad en tres pilares: un sistema gráfico unificado, un ecosistema digital por objetivos en redes sociales, y un despliegue operativo dividido entre herramientas de uso cotidiano para eventos y merchandising para la recaudación de fondos.",
-  "imagen": "alma-polera.webp",
-  "categoria": "Branding",
-  "filtro": ["branding"],
-  "claseTamano": "item-wide",
-  "galeria": [
-    /* =========================================================================
-       PILAR 1: IDENTIDAD VISUAL & SISTEMA BASE
-       ========================================================================= */
-    {
-      "layout": "full",
-      "src": "alma-polera.webp",
-      "caption": "Aplicación de marca en indumentaria oficial para voluntarios y coordinadores de la fundación."
-    },
-    {
-      "layout": "text-left",
-      "sectionTitle": "Intro",
-      "src": "alma-refugio.webp",
-      "text": "El activo más valioso de una fundación sin fines de lucro es la confianza. Fundación Alma contaba con una vocación increíble, pero su identidad visual fragmentada y la falta de cohesión en sus comunicaciones restaban credibilidad a su labor. El desafío principal no era solo hacer un logo nuevo, sino elevar la percepción de la marca para transmitir la seriedad y el profesionalismo necesarios para asegurar nuevas alianzas estratégicas y fidelizar a sus donantes.",
-    },
-    {
+      "id": "alma",
+      "titulo": "Fundación Alma Chile",
+      "cliente": "Fundación Alma Chile",
+      "year": "2025",
+      "servicios": ["Identidad Visual", "Ecosistema Social Media", "Diseño Operativo & Eventos", "Merchandising & Recaudación"],
+      "herramientas": ["Illustrator", "Procreate", "Canva Pro"],
+      "descripcion": "Fundación Alma rescata, rehabilita y promueve la adopción de perritos abandonados, necesitando constantes donaciones para operar. Tras identificar una comunicación desarticulada, el proyecto sistematizó toda su identidad en tres pilares: un sistema gráfico unificado, un ecosistema digital por objetivos en redes sociales, y un despliegue operativo dividido entre herramientas de uso cotidiano para eventos y merchandising para la recaudación de fondos.",
+      "imagen": "alma-polera.webp",
+      "categoria": "Branding",
+      "filtro": ["branding"],
+      "claseTamano": "item-wide",
+      "galeria": [
+        {
+          "layout": "full",
+          "src": "alma-polera.webp",
+          "caption": "Aplicación de marca en indumentaria oficial para voluntarios y coordinadores de la fundación."
+        },
+        {
+          "layout": "text-left",
+          "sectionTitle": "Intro",
+          "src": "alma-refugio.webp",
+          "text": "El activo más valioso de una fundación sin fines de lucro es la confianza. Fundación Alma contaba con una vocación increíble, pero su identidad visual fragmentada y la falta de cohesión en sus comunicaciones restaban credibilidad a su labor. El desafío principal no era solo hacer un logo nuevo, sino elevar la percepción de la marca para transmitir la seriedad y el profesionalismo necesarios para asegurar nuevas alianzas estratégicas y fidelizar a sus donantes."
+        },
+        {
           "layout": "editorial-slider",
           "pages": [
-            {
-              "src": "alma-perrito-4.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "alma-perrito-2.webp",
-              "text": "Caption del primer slider."
-            },
-            {
-              "src": "alma-perrito-3.webp",
-              "text": "Caption del segundo slider."
-            },
+            { "src": "alma-perrito-4.webp", "text": "Casos de rescate y rehabilitación." },
+            { "src": "alma-perrito-2.webp", "text": "Jornadas de adopción." },
+            { "src": "alma-perrito-3.webp", "text": "Seguimiento y comunidad." }
           ]
-    },
-    {
-      "layout": "text-left",
-      "src": "alma-diseños.mp4",
-      "sectionTitle": "Problema",
-      "text": "El punto de partida consistió en tomar la base y la esencia del logo original, sometiéndolo a una reingeniería para resolver problemas de legibilidad y escalabilidad. Se creó un sistema de 3 variantes (Principal, Alternativo e Icono) y se expandió el universo visual para otorgar versatilidad a la fundación."
-    },
+        },
         {
-      "layout": "narrative-center",
-      "sectionTitle": "Identidad Visual",
-      "text": "El punto de partida consistió en tomar la base y la esencia del logo original, sometiéndolo a una reingeniería para resolver problemas de legibilidad y escalabilidad. Se creó un sistema de 3 variantes (Principal, Alternativo e Icono) y se expandió el universo visual para otorgar versatilidad a la fundación."
-    },
-    {
-      "layout": "comparison",
-      "before": "alma-antiguo.webp",
-      "after": "alma-logo.webp",
-      "labelBefore": "LOGOTIPO ANTERIOR",
-      "labelAfter": "REDISEÑO ISABEL PUELMA",
-      "captionText": "/// REDISEÑO DE IMAGOTIPO: Optimización de proporciones, limpieza de trazos y creación de la versión Principal (con huesos corporativos), Alternativa e Icono aislado para redes.",
-      "sectionTitle": "Sistematización de Imagotipo"
-    },
-    {
-      "layout": "full",
-      "src": "alma-colores.webp",
-    },
-
-    {
-      "layout": "text-left",
-      "sectionTitle": "Redes Sociales",
-      "src": "alma-refugio.webp",
-      "text": "Para evitar publicaciones improvisadas, las plantillas de Instagram se dividieron estratégicamente según su objetivo de comunicación: educar e informar sobre la fundación, potenciar las adopciones activas y blindar la transparencia en las donaciones."
-    },
-    {
-      "layout": "full",
-      "src": "alma-rrss.webp",
-    },
-    {
-      "layout": "full",
-      "src": "alma-perrito-semana.webp",
-    },
-    {
-      "layout": "full",
-      "src": "alma-posts.webp",
-    },
-    {
-      "layout": "text-left",
-      "sectionTitle": "Eventos",
-      "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos."
-    },
-    {
-      "layout": "full",
-      "alma-templon.webp",
-    },
-    {
-      "layout": "full",
-      "alma-credenciales.webp",
-    },
-    {
-      "layout": "full",
-      "alma-credenciales.webp",
-    },
-    {
-      "layout": "full",
-      "src": "alma-certificado.webp",
-    },
-    {
-      "layout": "full",
-      "src": "alma-tajetas.webp",
-    },
-    {
-      "layout": "text-left",
-      "src": "alma-diseños.mp4",
-      "sectionTitle": "alma-tazas-2.webp",
-      "text": "Merchandising de Recaudación (Ilustración Aplicada): El sistema se expandió a productos físicos. Se desarrollaron ilustraciones específicas para tazas y stickers promocionales, creando una nueva línea de ingresos directos para financiar las operaciones de la fundación.",
-    },
-    {
-      "layout": "narrative-center",
-      "subtitle": "SOBERANÍA Y AUTONOMÍA EN CANVA PRO",
-      "text": "Cada uno de estos entregables fue transferido con enlaces editables parametrizados en Canva. Esto le otorga a los voluntarios de Fundación Alma la libertad total de crear y comunicar diariamente manteniendo la consistencia de marca, sin gastar dinero extra ni depender de un diseñador."
-    },
-    {
+          "layout": "text-left",
+          "src": "alma-diseños.mp4",
+          "sectionTitle": "Problema",
+          "text": "El punto de partida consistió en tomar la base y la esencia del logo original, sometiéndolo a una reingeniería para resolver problemas de legibilidad y escalabilidad."
+        },
+        {
+          "layout": "narrative-center",
+          "sectionTitle": "Identidad Visual",
+          "text": "Se creó un sistema de 3 variantes (Principal, Alternativo e Icono) y se expandió el universo visual para otorgar versatilidad a la fundación."
+        },
+        {
+          "layout": "comparison",
+          "before": "alma-antiguo.webp",
+          "after": "alma-logo.webp",
+          "labelBefore": "LOGOTIPO ANTERIOR",
+          "labelAfter": "REDISEÑO ISABEL PUELMA",
+          "captionText": "/// REDISEÑO DE IMAGOTIPO: Optimización de proporciones, limpieza de trazos y creación de la versión Principal (con huesos corporativos), Alternativa e Icono aislado para redes.",
+          "sectionTitle": "Sistematización de Imagotipo"
+        },
+        {
+          "layout": "full",
+          "src": "alma-colores.webp"
+        },
+        {
+          "layout": "text-left",
+          "sectionTitle": "Redes Sociales",
+          "src": "alma-refugio.webp",
+          "text": "Para evitar publicaciones improvisadas, las plantillas de Instagram se dividieron estratégicamente según su objetivo de comunicación: educar e informar sobre la fundación, potenciar las adopciones activas y blindar la transparencia en las donaciones."
+        },
+        {
+          "layout": "full",
+          "src": "alma-rrss.webp"
+        },
+        {
+          "layout": "full",
+          "src": "alma-perrito-semana.webp"
+        },
+        {
+          "layout": "full",
+          "src": "alma-posts.webp"
+        },
+        {
+          "layout": "text-left",
+          "sectionTitle": "Eventos",
+          "text": "La marca cobra vida fuera de la pantalla dividida en dos ejes operativos: herramientas de uso cotidiano para la gestión de jornadas y eventos, y productos de merchandising diseñados exclusivamente para la recaudación de fondos."
+        },
+        {
+          "layout": "full",
+          "src": "alma-templon.webp"
+        },
+        {
+          "layout": "full",
+          "src": "alma-credenciales.webp"
+        },
+        {
+          "layout": "full",
+          "src": "alma-certificado.webp"
+        },
+        {
+          "layout": "full",
+          "src": "alma-tajetas.webp"
+        },
+        {
+          "layout": "text-left",
+          "src": "alma-tazas-2.webp",
+          "sectionTitle": "Merchandising de Recaudación",
+          "text": "Merchandising de Recaudación (Ilustración Aplicada): El sistema se expandió a productos físicos. Se desarrollaron ilustraciones específicas para tazas y stickers promocionales, creando una nueva línea de ingresos directos para financiar las operaciones de la fundación."
+        },
+        {
+          "layout": "narrative-center",
+          "subtitle": "SOBERANÍA Y AUTONOMÍA EN CANVA PRO",
+          "text": "Cada uno de estos entregables fue transferido con enlaces editables parametrizados en Canva. Esto le otorga a los voluntarios de Fundación Alma la libertad total de crear y comunicar diariamente manteniendo la consistencia de marca, sin gastar dinero extra ni depender de un diseñador."
+        },
+        {
           "layout": "impact-grid",
-          "sectionTitle": "iMPACTO",
+          "sectionTitle": "IMPACTO",
           "items": [
-            { "value": "200", prefix: "+", label: "ASISTENTES AL EVENTO MUT" },
-            { "prefix": "10", suffix: "%", label: "ECOSISTEMA DIGITAL (WEB & RRSS)" },
-            { "value": "1", suffix: "K+", label: "ALCANCE DIGITAL EN RRSS" }
+            { "value": "200", "prefix": "+", "label": "ASISTENTES AL EVENTO MUT" },
+            { "prefix": "10", "suffix": "%", "label": "ECOSISTEMA DIGITAL (WEB & RRSS)" },
+            { "value": "1", "suffix": "K+", "label": "ALCANCE DIGITAL EN RRSS" }
           ]
         }
-  ]
-},
+      ]
+    },
     {
       "id": "puelma",
       "titulo": "BARBARAPUELMA&CIA",
@@ -556,7 +494,7 @@ const DATOS_GLOBALES = {
           "src": "peque.gif"
         }
       ],
-      "categoria": "Ilustracion",
+      "categoria": "Ilustración",
       "filtro": ["ilustración"],
       "claseTamano": "item-wide"
     },
@@ -618,14 +556,14 @@ const DATOS_GLOBALES = {
 };
 
 const siteData = {
-    footer: {
-        cta: "¿Hablamos?",
-        email: "mipuelma@uc.cl",
-        social: [
-            { text: "INSTAGRAM ↗", url: "https://www.instagram.com/isa_puelma/" },
-            { text: "LINKEDIN ↗", url: "https://www.linkedin.com/in/isabel-puelma/" },
-            { text: "FAQ ↗", url: "faq.html" }
-        ],
-        copyright: "© 2026 ISABEL PUELMA STUDIO."
-    }
+  footer: {
+    cta: "¿Hablamos?",
+    email: "mipuelma@uc.cl",
+    social: [
+      { text: "INSTAGRAM ↗", url: "https://www.instagram.com/isa_puelma/" },
+      { text: "LINKEDIN ↗", url: "https://www.linkedin.com/in/isabel-puelma/" },
+      { text: "FAQ ↗", url: "faq.html" }
+    ],
+    copyright: "© 2026 ISABEL PUELMA STUDIO."
+  }
 };
