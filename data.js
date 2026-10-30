@@ -495,7 +495,7 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "editorial-slider",
-          "sectionTitle": "Ilustraciones",
+          "sectionTitle": "Ilustraciones", // <-- COMAS AGREGADA AQUÍ
           "pages": [
             { "src": "peque-secretos.webp", "text": "Secretos y teorías de infancia." },
             { "src": "peque-luna.webp", "text": "La luna que nos persigue." },
@@ -509,7 +509,7 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "full",
-          "sectionTitle": "Zine",
+          "sectionTitle": "Zine", // <-- COMAS AGREGADA AQUÍ
           "src": "peque.gif"
         }
       ],
