@@ -43,6 +43,12 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
+          "src": "codu-etiqueta.webp",
+          "text": " Codu nació con un propósito profundo: democratizar el arte de autor y generar un modelo económico justo para creadores locales. El gran reto estratégico era evitar que la marca se percibiera como simple venta de merchandising. Debíamos construir una verdadera galería de prendas y prints; una plataforma que se sintiera premium y curada, capaz de unificar estilos artísticos radicalmente distintos bajo el manifiesto The right to party. ",
+          "layout": "text-right",
+          "sectionTitle": "Packaging"
+        },
+        {
           "src": "codu-cel.webp",
           "text": "Para asegurar la escalabilidad del proyecto, el trabajo incluyó la entrega de un manual de identidad visual (códigos de color, tipografías y usos) y un set de plantillas para redes sociales, permitiendo a los fundadores mantener una comunicación coherente y autónoma en sus canales digitales",
           "layout": "text-right",
