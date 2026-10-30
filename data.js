@@ -482,7 +482,14 @@ const DATOS_GLOBALES = {
           "src": "peque.webp"
         },
         {
+          "layout": "text-left",
+          "src":  "peque-zine.webp",
+          "text": "Para construir el universo narrativo de Peque, el desarrollo del proyecto contempló un levantamiento de información mediante encuestas cualitativas. El objetivo fue recolectar directamente desde la memoria de los adultos aquellos pensamientos infantiles más significativos. A partir de esta colección de relatos compartidos, se seleccionaron los hitos conceptuales que posteriormente se tradujeron en las ilustraciones del proyecto, asegurando un vínculo auténtico y directo entre las historias y el espectador.",
+          "sectionTitle": "Intro"
+        },
+        {
           "layout": "editorial-slider",
+          "sectionTitle": "Ilustraciones"
           "pages": [
             { "src": "peque-secretos.webp", "text": "Secretos y teorías de infancia." },
             { "src": "peque-luna.webp", "text": "La luna que nos persigue." },
@@ -491,6 +498,12 @@ const DATOS_GLOBALES = {
         },
         {
           "layout": "full",
+          "src":  "peque-abierto.webp",
+          "sectionTitle": "Intro"
+        },
+        {
+          "layout": "full",
+          "sectionTitle": "Zine"
           "src": "peque.gif"
         }
       ],
