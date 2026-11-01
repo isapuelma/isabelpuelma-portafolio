@@ -467,6 +467,12 @@ const DATOS_GLOBALES = {
         {
           "layout": "full",
           "src": "hallo-celeste.webp"
+        },
+        {
+          "layout": "impact-grid",
+          "items": [
+            { "value": "7.0", "label": "NOTA MÁXIMA ILUSTRACIÓN CREATIVA" },
+          ]
         }
       ],
       "categoria": "Ilustración",
@@ -480,7 +486,7 @@ const DATOS_GLOBALES = {
       "year": "2024",
       "servicios": ["Ilustración", "Diseño Editorial"],
       "herramientas": ["Procreate", "InDesign"],
-      "descripcion": "Fanzine ilustrado que rescata el imaginario infantil y las teorías mágicas de la infancia a través de los ojos de Peque.",
+      "descripcion": "A través de las vivencias y la mirada de Peque, una niña chilena de 5 años, este proyecto editorial e ilustrado rescata y pone en valor el imaginario colectivo de la infancia: aquellas teorías mágicas y entrañables —como creer que las vacas café dan leche con chocolate o que la luna nos persigue en el auto— que todos compartimos al crecer. Nacido en el contexto de la Escuela de Diseño UC, dentro del ramo Ilustración Creativa, el fanzine y su extensión digital funcionan como un puente de memoria y empatía para el público adulto, invitándolo a reconectar con su propio niño interior.",
       "imagen": "peque.webp",
       "galeria": [
         {
@@ -507,11 +513,6 @@ const DATOS_GLOBALES = {
           "src":  "peque-abierto.webp",
           "sectionTitle": "Intro"
         },
-        {
-          "layout": "full",
-          "sectionTitle": "Zine", // <-- COMAS AGREGADA AQUÍ
-          "src": "peque.gif"
-        }
       ],
       "categoria": "Ilustración",
       "filtro": ["ilustración"],
