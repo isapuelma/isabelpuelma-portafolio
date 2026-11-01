@@ -406,8 +406,8 @@ const DATOS_GLOBALES = {
       "cliente": "Bárbara Puelma & Cía. Abogados",
       "year": "2026",
       "servicios": ["Branding", "Diseño Web", "Optimización LinkedIn"],
-      "herramientas": ["Illustrator", "WordPress", "Figma"],ital
-      "descripcion": "Desarrollo integral de la identidad visual, el sistema de marca y la plataforma web para el estudio jurídico Bárbara Puelma & Cía.. El encargo consistió en materializar los valores de rigor, confianza y trayectoria de la firma en un lenguaje gráfico contemporáneo y sofisticado, dotando al estudio de un sistema visual coherente tanto en el entorno digital como en su soporte corporativo.",
+      "herramientas": ["Illustrator", "WordPress", "Figma"],
+      "descripcion": "Desarrollo integral de la identidad visual, el sistema de marca y la plataforma web para el estudio jurídico Bárbara Puelma & Cía. El encargo consistió en materializar los valores de rigor, confianza y trayectoria de la firma en un lenguaje gráfico contemporáneo y sofisticado, dotando al estudio de un sistema visual coherente tanto en el entorno digital como en su soporte corporativo.",
       "imagen": "b-web.webp",
       "galeria": [
         {
@@ -512,7 +512,7 @@ const DATOS_GLOBALES = {
           "layout": "full",
           "src":  "peque-abierto.webp",
           "sectionTitle": "Intro"
-        },
+        }
       ],
       "categoria": "Ilustración",
       "filtro": ["ilustración"],
