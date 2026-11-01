@@ -403,17 +403,17 @@ const DATOS_GLOBALES = {
     {
       "id": "puelma",
       "titulo": "BARBARAPUELMA&CIA",
-      "cliente": "Bárbara Puelma & Cía.",
+      "cliente": "Bárbara Puelma & Cía. Abogados",
       "year": "2026",
       "servicios": ["Branding", "Diseño Web", "Optimización LinkedIn"],
-      "herramientas": ["Illustrator", "WordPress", "Figma"],
-      "descripcion": "Rediseño completo de identidad corporativa, plataforma web y posicionamiento digital para el estudio jurídico Bárbara Puelma & Cía.",
+      "herramientas": ["Illustrator", "WordPress", "Figma"],ital
+      "descripcion": "Desarrollo integral de la identidad visual, el sistema de marca y la plataforma web para el estudio jurídico Bárbara Puelma & Cía.. El encargo consistió en materializar los valores de rigor, confianza y trayectoria de la firma en un lenguaje gráfico contemporáneo y sofisticado, dotando al estudio de un sistema visual coherente tanto en el entorno digital como en su soporte corporativo.",
       "imagen": "b-web.webp",
       "galeria": [
         {
           "layout": "text-left",
           "src": "barbara-oficina.webp",
-          "text": "Desarrollo de marca y directrices de comunicación corporativa.",
+          "text": "Construir una propuesta de branding que se alejara de los códigos tradicionales y excesivamente rígidos del sector legal, apostando por una dirección de arte detallista, sobria y funcional. El objetivo principal fue estructurar una presencia digital optimizada, elegante y de fácil navegación que reflejara la seriedad institucional de la firma a través de una arquitectura web limpia y una identidad visual sólida.",
           "sectionTitle": "Intro"
         },
         {
