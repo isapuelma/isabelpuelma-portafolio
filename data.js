@@ -126,7 +126,7 @@ const DATOS_GLOBALES = {
       "galeria": [
         {
           "layout": "full",
-          "src": "dolemos.webp",
+          "src": "dolemos.jpg",
           "sectionTitle": "Inicio"
         },
         {
@@ -158,8 +158,8 @@ const DATOS_GLOBALES = {
           "layout": "full"
         },
         {
-          "src": "dolemos.webp",
-          "text": "Desarrollo del lenguaje gráfico y conceptualización de la marca.",
+          "src": "dolemos.jpg",
+          "text": "El proyecto se articuló de manera interdisciplinaria, contando con el respaldo de la Corporación de Fibromialgia y la mediación del psicólogo clínico Rodrigo Cohn, lo que garantizó la contención ética y emocional del proceso. A través de talleres presenciales de cocreación en los que participaron 12 pacientes, el objetivo del DSI fue generar una irrupción en el espacio público, permitiendo a estas mujeres reclamar su justicia narrativa y transformar su silencio en un hecho social compartido.",
           "layout": "text-right",
           "sectionTitle": "Branding"
         },
